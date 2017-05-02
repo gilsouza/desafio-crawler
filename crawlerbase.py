@@ -37,8 +37,11 @@ class CrawlerBase:
             self.url_to_process.task_done()
 
     def scrap(self, url):
-        response = requests.get(url)
-        soup = BeautifulSoup(response.text, "html.parser")
+        try:
+            response = requests.get(url)
+            soup = BeautifulSoup(response.text, "html.parser")
+        except:
+            return
 
         self.page_scrap(url)
 
