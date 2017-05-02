@@ -1,0 +1,84 @@
+
+http://www.epocacosmeticos.com.br/
+	document.querySelectorAll('.item_menu')				<a> MENU que não seja solares, ver filtro  => pagecount_33059710 = 85; => pagecount_\d+ = (\d+); = > https://regex101.com/r/vCX9Eq/1
+	paginação http://www.epocacosmeticos.com.br/perfumes?PageNumber=1
+		document.querySelectorAll('.productImage')		<a> PRODUTO
+		document.querySelector('.vitrine.resultItemsWrapper').querySelectorAll("h3")
+
+
+
+
+http://www.epocacosmeticos.com.br/buscapagina?fq=C%3a%2f1000001%2f&PS=20&sl=ae17d111-2690-49d2-bb26-164b5236a7bf&cc=4&sm=0&PageNumber=2
+<script type='text/javascript'>
+                                var pagecount_45585661;
+                                $(document).ready(function() {
+				####### total de paginas
+                                    pagecount_45585661 = 85;
+                                    $('#PagerTop_45585661').pager({
+                                        pagenumber: 1,
+                                        pagecount: pagecount_45585661,
+                                        buttonClickCallback: PageClick_45585661
+                                    });
+                                    $('#PagerBottom_45585661').pager({
+                                        pagenumber: 1,
+                                        pagecount: pagecount_45585661,
+                                        buttonClickCallback: PageClick_45585661
+                                    });
+                                    if (window.location.hash != '') PageClick_45585661(window.location.hash.replace(/\#/, ''));
+                                });
+                                PageClick_45585661 = function(pageclickednumber) {
+                                    window.location.hash = pageclickednumber;
+				####### query de nova pagina com código de categoria...
+                                    $('#ResultItems_45585661').load('/buscapagina?fq=C%3a%2f1000001%2f&PS=20&sl=ae17d111-2690-49d2-bb26-164b5236a7bf&cc=4&sm=0&PageNumber=' + pageclickednumber,
+                                        function() {
+                                            $('#PagerTop_45585661').pager({
+                                                pagenumber: pageclickednumber,
+                                                pagecount: pagecount_45585661,
+                                                buttonClickCallback: PageClick_45585661
+                                            });
+                                            $('#PagerBottom_45585661').pager({
+                                                pagenumber: pageclickednumber,
+                                                pagecount: pagecount_45585661,
+                                                buttonClickCallback: PageClick_45585661
+                                            });
+                                            bindQuickView();
+                                        });
+                                }
+                            </script>
+
+
+Tipo de página = produto
+ <meta property="og:type" content="og:product" />
+
+informações de produto
+<script>
+        vtex.events.addData({
+            "pageCategory": "Product",
+            "pageDepartment": "Perfumes",
+            "pageUrl": "http://www.epocacosmeticos.com.br/bebe-desire-eau-de-parfum-bebe-perfume-feminino/p",
+            "pageTitle": "Perfume Bebe Desire Bebe Feminino - Época Cosméticos",
+            "skuStockOutFromShelf": [],
+            "skuStockOutFromProductDetail": [],
+            "shelfProductIds": [],
+            "accountName": "epocacosmeticos",
+            "pageFacets": [],
+            "productId": "8506",
+            "productReferenceId": "20170206A",
+            "productEans": ["0085715135353", "0085715135377"],
+            "skuStocks": {
+                "13157": 29,
+                "23505": 60
+            },
+            "productName": "Bebe Desire Bebe - Perfume Feminino - Eau de Parfum",
+            "productBrandId": 2000021,
+            "productBrandName": "Bebe",
+            "productDepartmentId": 1000001,
+            "productDepartmentName": "Perfumes",
+            "productCategoryId": 1000002,
+            "productCategoryName": "Perfume Feminino",
+            "productListPriceFrom": "365.8",
+            "productListPriceTo": "434.9",
+            "productPriceFrom": "109.7",
+            "productPriceTo": "152.2"
+        });
+    </script>

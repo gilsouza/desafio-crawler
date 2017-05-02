@@ -1,6 +1,6 @@
-from crawlerbase import CrawlerBase
+from epocacosmeticoscrawler import EpocacosmeticosCrawler
 
 
 if __name__ == "__main__":
-    c = CrawlerBase("http://www.epocacosmeticos.com.br")
+    c = EpocacosmeticosCrawler("http://www.epocacosmeticos.com.br")
     c.start(20)
