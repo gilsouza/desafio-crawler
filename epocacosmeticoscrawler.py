@@ -6,6 +6,16 @@ from product import Product
 
 
 class EpocacosmeticosCrawler(CrawlerBase):
+    """
+    Classe com implementação do scrap para a
+    página epocacosmeticos.com.br .
+
+    Contém todas as regras necessárias para a extração da informação
+    do site conforme desejado.
+
+    Extends:
+        CrawlerBase
+    """
 
     def __init__(self, url):
         CrawlerBase.__init__(self, url)
@@ -17,11 +27,25 @@ class EpocacosmeticosCrawler(CrawlerBase):
         self.base_url = url
 
     def dispose(self):
+        """
+        Implementação do método herdado.
 
+        Realiza a limpeza dos objetos, neste caso apenas fecha o arquivo.
+        """
         self.file.close()
 
     def page_scrap(self, soup):
+        """
+        Sobrescrita do método heradado para regra do crawler.
 
+        Método com as regrás e lógicas necessárias para extrair
+        os produtos da página.
+        Produtos são escritos no arquivo csv apenas se não foram visitados
+        anteriormente.
+
+        Arguments:
+            soup {[object]} -- Objeto BeautifulSoup para extração dos produtos
+        """
         product = self.find_product_details(soup)
 
         self.lock.acquire()
@@ -36,7 +60,18 @@ class EpocacosmeticosCrawler(CrawlerBase):
         self.lock.release()
 
     def find_product_details(self, soup):
+        """
+        Busca produto na página.
 
+        Busca produto na página se a página for do tipo produto
+        e se as informações existirem.
+
+        Arguments:
+            soup {[object]} -- Objeto BeautifulSoup para extração dos produtos
+
+        Returns:
+            [Product] -- Objeto produto preenchido com nome, título e url
+        """
         page_type = soup.find('meta', property='og:type')
 
         if page_type is not None and page_type.get("content") == "og:product":
