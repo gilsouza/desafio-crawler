@@ -9,7 +9,7 @@ import re
 
 
 class ExtendedTestCrawler(CrawlerBase):
-    """Extenção de CrawlerBase
+    """Estenção de CrawlerBase
 
     Classe com implementação dos métodos page_scrap e dispose
 

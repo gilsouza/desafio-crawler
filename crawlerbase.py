@@ -12,7 +12,7 @@ class CrawlerBase:
     
     Classe que contem a fila das urls que serão processadas
     e realizará o controle do que já foi acessado.
-    A classe deve ser extendida para que haja a implementação
+    A classe deve ser estendida para que haja a implementação
     de acordo com a necessidade da página.
     """
     def __init__(self, url):
