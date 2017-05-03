@@ -6,11 +6,13 @@ Crawler que visita o site epocacosmeticos.com.br e salva um arquivo .csv os dado
 
     Python3 - versão testada: 3.5.2
     pip3
+    beautifulsoup4-4.4.1
+    requests-2.9.1
     
-# Instalação - Linux
+# Instalação - Linux Ubuntu
     
-    $ sudo apt-get install -y git python3 python3-pip
-    $ clone https://github.com/gilsouza/desafio-crawler.git
+    $ sudo apt-get update -y && sudo apt-get install -y git python3 python3-pip
+    $ git clone https://github.com/gilsouza/desafio-crawler.git
     $ cd desafio-crawler
     $ pip3 install -r requirements.txt
 
