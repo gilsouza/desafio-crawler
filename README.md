@@ -12,10 +12,12 @@ Crawler que visita o site epocacosmeticos.com.br e salva um arquivo .csv os dado
     $ sudo apt-get install -y git python3 python3-pip
     $ clone https://github.com/gilsouza/desafio-crawler.git
     $ cd desafio-crawler
+    $ pip3 install -r requirements.txt
 
 # Execução dos Testes
 
-	$ 
+	$ python3 crawlerbaseTest.py
+	$ python3 epocacosmeticoscrawlerTest.py
     
 # Execução do Script
     

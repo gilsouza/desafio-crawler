@@ -1,0 +1,346 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="pt-br">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#"><meta name="language" content="pt-BR" />
+<meta name="country" content="BRA" />
+<meta name="currency" content="R$" />
+<!-- CSS --><!-- CSS Estilo --><meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="description" content="Nuit Rose Limited Edition Deo Colônia Fiorucci - Perfume Feminino + FRETE GRÁTIS na Época Cosméticos Perfumaria. Confira!" />
+<meta name="Abstract" content="Perfume Nuit Rose Limited Edition Fiorucci Feminino" />
+<meta name="author" content="Epoca Cosméticos" />
+<meta name="copyright" content="Epoca Cosméticos" />
+<meta name="vtex-version" content="1.4.722.1303" />
+<meta http-equiv="pragma" content="no-cache" />
+<link href="https://plus.google.com/+epocacosmeticos" rel="publisher" /><meta property="og:type" content="og:product" />
+<meta property="og:title" content="Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Colônia - 100ml" /><meta property="og:image" content="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-320-320/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg" /><meta property="og:description" content="Com sua fragrância envolvente, Fiorucci Nuit Rose, encanta as mulheres românticas e fatais. 
+
+O Campagne Rose, a Pimenta Rosa e a Lichia marcam as suas notas de saída, seguidas por um corpo quente com notas de Frésia, Flor de Pessego e Rosas. Por fim, as suas notas de madeira, Framboesa e Musk deixam um rastro de sedução por onde passa." /><meta property="og:url" content="http://www.epocacosmeticos.com.br/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p" /><meta property="product:plural_title" content="Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Colônia - 100ml" /><meta property="product:price:amount" content="39.90" /><meta property="product:price:currency" content="BRL" /><meta name="twitter:card" content="product" />
+<meta name="twitter:site" content="@epocacosmeticos" /><meta name="twitter:creator" content="@epocacosmeticos" /><meta name="twitter:title" content="Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Colônia - 100ml" /><meta name="twitter:label1" content="Category" /><meta name="twitter:data1" content="Perfume Feminino" /><meta name="twitter:label2" content="Price" /><meta name="twitter:data2" content="39.90" /><meta name="twitter:domain" content="epocacosmeticos.com.br" /><meta name="twitter:image" content="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-320-320/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg" /><title>Perfume Nuit Rose Limited Edition Fiorucci Feminino - Época Cosméticos</title><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.epocacosmeticos.com.br/checkout/#/cart';var jscheckoutAddUrl = 'https://www.epocacosmeticos.com.br/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'epocacosmeticos';var jsnomeLoja = 'epocacosmeticos';var jssalesChannel = '1';var defaultStoreCurrency = 'R$';var localeInfo = {"CountryCode":"BRA","CultureCode":"pt-BR","CurrencyLocale":{"RegionDisplayName":"Brazil","RegionName":"BR","RegionNativeName":"Brasil","TwoLetterIsoRegionName":"BR","CurrencyEnglishName":"Real","CurrencyNativeName":"Real","CurrencySymbol":"R$","ISOCurrencySymbol":"BRL","Locale":1046,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/br.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {skus:"14581",searchTerm:"",categoryId:"1000002",categoryName:"Perfume Feminino",departmentyId:"1000001",departmentName:"Perfumes",isOrder:"0",isCheck:"0",isCart:"0",actionType:"",actionValue:"",login:"",url:"www.epocacosmeticos.com.br",transurl:"www.epocacosmeticos.com.br"};</script> 
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/mobile/mdetect.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/mobile/mdetect2.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.ajax.wait.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.common.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-i18n/0.4.1/vtex-i18n.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-utils/1.0.1/vtex-utils.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/catalog-sdk.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://dmx56ht1p4edz.cloudfront.net/rc.js?an=epocacosmeticos?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.tagmanager.helper.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.2/scripts/vtex-events-all.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.2/scripts/vtex-analytics.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex.js/2.7.0/vtex.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/jquery.ui.core.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/autocomplete/jquery.ui.widget.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/autocomplete/jquery.ui.position.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/autocomplete/jquery.ui.autocomplete.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.commerce.search.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.fullTextSearchBox.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-minicart-with-template.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex-id-ui/3.11.1/vtexid-jquery.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/jquery.jqzoom-core.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-price-with-template.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-buy-button.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-notify-me-with-template.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="//epocacosmeticos.vteximg.com.br/arquivos/style_epoca.css" /><link rel="stylesheet" type="text/css" href="//epocacosmeticos.vteximg.com.br/arquivos/brands-product.css" /><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script><link rel="canonical" href="http://www.epocacosmeticos.com.br/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p" /><script>var skuJson_0 = {"productId":9410,"name":"Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Colônia","salesChannel":"1","available":true,"displayMode":"especificacao","dimensions":["Variação"],"dimensionsInputType":{"Variação":"Radio"},"dimensionsMap":{"Variação":["100ml"]},"skus":[{"sku":14581,"skuname":"100ml","dimensions":{"Variação":"100ml"},"available":true,"availablequantity":2,"cacheVersionUsedToCallCheckout":"d4c1271238d17f833be6f1acc052d813_geral:8055E1A6C6D3FD168613DD67465E7E25","listPriceFormated":"R$ 0,00","listPrice":0,"taxFormated":"R$ 0,00","taxAsInt":0,"bestPriceFormated":"R$ 39,90","bestPrice":3990,"installments":1,"installmentsValue":3990,"installmentsInsterestRate":0,"image":"http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-320-320/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg","sellerId":"1","seller":"Época Cosméticos","measures":{"cubicweight":0.2083,"height":10.0000,"length":10.0000,"weight":100.0000,"width":10.0000},"unitMultiplier":1.0000,"rewardValue":0}]};CATALOG_SDK.setProductWithVariationsCache(skuJson_0.productId, skuJson_0); var skuJson = skuJson_0;</script></head>
+  <body id="produto" class="produto new">
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: @Produto@ -->
+
+<script>
+vtex.events.addData({"pageCategory":"Product","pageDepartment":"Perfumes","pageUrl":"http://www.epocacosmeticos.com.br/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p","pageTitle":"Perfume Nuit Rose Limited Edition Fiorucci Feminino - Época Cosméticos","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":[],"accountName":"epocacosmeticos","pageFacets":[],"productId":"9410","productReferenceId":"20170206A","productEans":["7891177019123"],"skuStocks":{"14581":2},"productName":"Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Colônia - 100ml","productBrandId":2000386,"productBrandName":"Fiorucci","productDepartmentId":1000001,"productDepartmentName":"Perfumes","productCategoryId":1000002,"productCategoryName":"Perfume Feminino","productListPriceFrom":"39.9","productListPriceTo":"39.9","productPriceFrom":"39.9","productPriceTo":"39.9"});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-WDK7Q6');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('productView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer"></div><script type="text/javascript">
+        window._trustvox =  [];
+        _trustvox.push(['_storeId', '393']);
+        _trustvox.push(['_productId',  skuJson.productId]);
+        _trustvox.push(['_productName', skuJson.name]);
+        _trustvox.push(['_css', ["//static.trustvox.com.br/assets/stylesheets/epoca.css"]]);
+    </script><script async="true" type="text/javascript" src="http://static.trustvox.com.br/assets/widget.js"></script><script>
+        $(document).ready(function() {
+            _trustvox.push(['_productPhotos', [$('.sku-rich-image-main').attr('src')]]);
+
+            $('#trustvox-a').click(function(){
+                $('html, body').animate({
+                    scrollTop: $( $.attr(this, 'href') ).offset().top
+                }, 500);
+                return false;
+            });
+        });
+    </script><div class="similar"></div><!-- similar --><!-- HEADER --><div class="header_flutuante"><div class="top100"><div class="top"><div class="logo"><a href="/">Época Cosméticos - Perfumaria</a></div><div class="search"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBox0bd05cc164b7477687173863c23ae3c3', 'ftDept0bd05cc164b7477687173863c23ae3c3', 'ftIdx0bd05cc164b7477687173863c23ae3c3', 'ftBtn0bd05cc164b7477687173863c23ae3c3', '/SEARCHTERM','Busque por produtos, marcas etc' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDept0bd05cc164b7477687173863c23ae3c3"><option value="">Todo o site</option><option value="1000001">Perfumes</option><option value="1000004">Maquiagem</option><option value="1000037">Cabelos</option><option value="1000070">Corpo e Banho</option><option value="1000089">Tratamentos</option><option value="1000130">Dermocosméticos</option><option value="1000013">Unhas</option></select><input type="hidden" id=ftIdx0bd05cc164b7477687173863c23ae3c3 value="" /><input id="ftBox0bd05cc164b7477687173863c23ae3c3" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtn0bd05cc164b7477687173863c23ae3c3" type="button" value="Buscar" class="btn-buscar" /></fieldset></div><!-- search --><div class="regua">
+  <ul>
+    <li class="frete">
+      <p>FRETE GRÁTIS</p>
+      <span>acima de R$ 89</span>
+    </li>
+    <li class="parcela">
+      <span>até</span>
+      <i>10x</i>
+      <p>SEM JUROS</p>
+    </li>
+  </ul>
+</div><!-- regua --><!-- Menu dropdown de deps do topo flutuante--><ul class="menu_dept"><li class="item"><a href="#" class="item">Departamentos</a><ul class="sub_dept"><li><a href="http://www.epocacosmeticos.com.br/perfumes">Perfumes</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem">Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos">Cabelos</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos">Dermocosméticos</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos">Tratamentos</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho">Corpo e Banho</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas">Unhas</a></li><li><a href="http://www.epocacosmeticos.com.br/selecao/ofertas">Ofertas</a></li></ul></li></ul><a href="http://www.epocacosmeticos.com.br/site/carrinho.aspx" class="carrinho" rel="nofollow"><div class="portal-totalizers-ref"></div><script>$('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });</script><span class="item">itens</span></a><!-- carrinho --></div><!-- top --></div><!-- top100 --></div><div class="topbanner commum-visity"><style type="text/css">
+/* BACKGROUND DO BANNER DE TOPO - MUDAR SÓ O CAMINHO DO BACKGROUND*/
+.banner-topo-40xfull{
+background:url() repeat-x center center;
+width: 100%;
+height: 40px;
+}
+/* BANNER DE TOPO - MUDAR SÓ O CAMINHO DO BACKGROUND*/
+.container-banner-topo-100x955{
+width: 100%;
+height: 40px;
+margin: 0 auto;
+background:url(http://hd.epocacosmeticos.com.br/2017/maes/EM14/banner-top-020517.jpg) no-repeat center center;
+}
+/* POP UP - MUDAR SÓ O CAMINHO DO BACKGROUND*/
+.banner-mouse-hover{
+background:url() no-repeat center center; 
+height: 103px; 
+width:448px; 
+left:705px; 
+position:absolute; 
+z-index:999999999;
+}
+
+</style>
+<script>
+// MOUSE HOVER 
+$(document).ready(function() {
+    $(".banner-topo-40xfull").mouseenter(function() {
+        $(".banner-mouse-hover").show();
+    });
+	$(".banner-mouse-hover").mouseenter(function() {
+        $(".banner-mouse-hover").show();
+    });
+	$(".banner-topo-40xfull").mouseleave(function() {
+        $(".banner-mouse-hover").hide();
+    });
+	$(".banner-mouse-hover").mouseleave(function() {
+        $(".banner-mouse-hover").hide();
+    });
+});
+//MOUSE HOVER -END
+</script>
+
+</head>
+<body>
+<!-- BANNER TOP (BACKGROUND) -->
+<div class="banner-topo-40xfull">
+	<!-- BANNER TOP -->
+    <div class="container-banner-topo-100x955">
+    	<!-- LINK DE REDIRECIONAMENTO - (LEMBRAR DE ALTERAR) -->
+       <a href="http://www.epocacosmeticos.com.br/selecao/acao" style="width: 955px;height: 40px; display:block;"></a>
+    </div>    
+    <a href="#" class="close"></a>
+</div>
+<!-- POP-UP TOPO -->
+<!-- <div class="banner-mouse-hover" style="display: none;"></div> --><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome multiplus não foi renderizado por nao ser um XDocument válido, erro: - The 'html' start tag on line 1 position 2 does not match the end tag of 'head'. Line 45, position 3.--></div><div class="topbanner first-visity" style="display:none;"><div class="contentOptin"><form action="#" method="post"><div class="title-form"><p><strong>Cadastre-se aqui e ganhe 10% de desconto!</strong></p></div><input type="text" name="email" class="mail" placeholder="Digite seu e-mail" /><input type="text" name="nome" class="name" placeholder="Digite seu nome" /><div class="genero"><label class="labelGener"><input type="radio" name="gender" value="Masculino" checked="" />Homem
+                </label><label class="labelGener"><input type="radio" name="gender" value="Feminino" />Mulher
+                </label><label class="labelSms"><input type="checkbox" name="sms" value="aceito" checked="checked" />
+                    Aceito receber emails e SMS com promoções
+                </label></div><input type="hidden" name="data" id="cadastro" /><input type="submit" name="enviadois" class="btn_form" value="" /></form></div><!--<vtex.cmc:bannerTopoNovaVisita />--><!-- <vtex:bannerTopo /> --><a href="#" class="close" rel="nofollow"></a></div><div class="topbar100"><div class="topbar"><div class="welc"><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('2c13dfe4-78b6-4b0e-9a66-c0f2c3cb7c6f');
+                                        vtexid.setScopeName('epocacosmeticos');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome"></div></div><!-- welc --><ul class="menu_topbar"><li class="televendas"><p>Televendas: <span>(21) 3202.7555</span></p></li><li class="meuspedidos"><a href="http://www.epocacosmeticos.com.br/account/orders" rel="nofollow">Meus Pedidos</a></li><li class="atendimento"><a href="http://www.epocacosmeticos.com.br/centralatendimento">Atendimento</a></li></ul><!--   --></div><!-- topbar --></div><div class="top100"><div class="top"><div class="logo"><a href="/">Época Cosméticos - Perfumaria</a></div><div class="search"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBoxfc1288582a4343b9bb531c5aac4340f8', 'ftDeptfc1288582a4343b9bb531c5aac4340f8', 'ftIdxfc1288582a4343b9bb531c5aac4340f8', 'ftBtnfc1288582a4343b9bb531c5aac4340f8', '/SEARCHTERM','Busque por produtos, marcas etc' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDeptfc1288582a4343b9bb531c5aac4340f8"><option value="">Todo o site</option><option value="1000001">Perfumes</option><option value="1000004">Maquiagem</option><option value="1000037">Cabelos</option><option value="1000070">Corpo e Banho</option><option value="1000089">Tratamentos</option><option value="1000130">Dermocosméticos</option><option value="1000013">Unhas</option></select><input type="hidden" id=ftIdxfc1288582a4343b9bb531c5aac4340f8 value="" /><input id="ftBoxfc1288582a4343b9bb531c5aac4340f8" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtnfc1288582a4343b9bb531c5aac4340f8" type="button" value="Buscar" class="btn-buscar" /></fieldset></div><!-- search --><div class="regua">
+  <ul>
+    <li class="frete">
+      <p>FRETE GRÁTIS</p>
+      <span>acima de R$ 89</span>
+    </li>
+    <li class="parcela">
+      <span>até</span>
+      <i>10x</i>
+      <p>SEM JUROS</p>
+    </li>
+  </ul>
+</div><!-- regua --><a href="http://www.epocacosmeticos.com.br/site/carrinho.aspx" class="carrinho"><div class="portal-totalizers-ref"></div><script>$('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });</script><span class="item">itens</span></a><!-- carrinho --></div><!-- top --></div><nav class="menu100"><div class="menu"><h2 class="item_menu perfumes"><a href="http://www.epocacosmeticos.com.br/perfumes" class="princ">Perfumes</a><ul class="sub" style="left: 0px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-feminino">Perfumes Femininos</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-masculino">Perfumes Masculinos</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-unissex">Perfume Unissex</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-infantil">Perfume Infantil</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-para-o-corpo">Perfume Corporal</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfumes-para-ambiente">Perfume para Carro</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/perfumes" class="sub_vertodos">CLIQUE E VEJA MAIS!</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-29,9-a-69,99?map=c,priceFrom" rel="nofollow">Até R$ 69</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-70-a-99,99?map=c,priceFrom" rel="nofollow">De R$ 70 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-100-a-199,99?map=c,priceFrom" rel="nofollow">De R$ 100 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-200-a-299,99?map=c,priceFrom" rel="nofollow">De R$ 200 a R$ 299</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-300-a-399,99?map=c,priceFrom" rel="nofollow">De R$ 300 a R$ 399</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-400-a-5000?map=c,priceFrom" rel="nofollow">Acima de R$ 399</a></li><h3>RECOMENDAMOS</h3><!-- <li><a href="/ganhe-brindes-perfumes">Ganhe Brindes</a></li> --><li><a href="http://www.epocacosmeticos.com.br/outlet-perfumes">Outlet de Perfumes</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/kits-de-perfumes">Kits de Perfumes</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/polo-eau-de-toilette-ralph-lauren-perfume-masculino/p?"><img width="325" height="270" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/221292/campeao-cliques-ralph-lauren-230317.png" alt="bannerMenuPerfume" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/221292/campeao-cliques-ralph-lauren-230317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu maquiagem"><a href="http://www.epocacosmeticos.com.br/maquiagem" class="princ">Maquiagem</a><ul class="sub" style="left: 40px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/maquiagem/labios/batom">Batom</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas/esmalte">Esmalte</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/face/base">Base</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/face/po-facial">Pó Facial</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/olhos/sombra">Sombra</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/olhos/mascara-para-cilios">Máscara para Cílios</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/primer-e-finalizador/fixador-da-maquiagem">Fixador de Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/aplicadores-para-maquiagem/pincel-ou-aplicador">Pincéis de Maquiagem</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/maquiagem" class="sub_vertodos">CLIQUE E VEJA MAIS!</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-14,9-a-59,99?map=c,priceFrom" rel="nofollow">Até R$ 59</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-60-a-99,99?map=c,priceFrom" rel="nofollow">De R$ 60 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-100-a-159,99?map=c,priceFrom" rel="nofollow">De R$ 100 a R$ 159</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-160-a-199,99?map=c,priceFrom" rel="nofollow">De R$ 160 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-200-a-5000?map=c,priceFrom" rel="nofollow">Acima de R$ 199</a></li><h3>RECOMENDAMOS</h3><!-- <li><a href="/ganhe-brindes-maquiagem">Ganhe Brindes</a></li> --><li><a href="http://www.epocacosmeticos.com.br/outlet-maquiagem">Outlet de Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/estojo-completo-e-kit-de-maquiagem">Kits de Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-maquiagem">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/nude-tude-palette-the-balm-palheta-de-sombras/p?"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/221294/campeao-cliques-the-balm-230317.png" alt="bannerMenuMaquiagen" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/221294/campeao-cliques-the-balm-230317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu cabelos"><a href="http://www.epocacosmeticos.com.br/cabelos" class="princ">Cabelos</a><ul class="sub" style="left: 79px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/cabelos/shampoo">Shampoo</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/condicionador">Condicionador</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/mascara-capilar">Máscara Capilar</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/finalizador">Finalizador</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/tratamento">Tratamento</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/coloracao/tintura-para-cabelos">Tintura de Cabelo</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/cabelos" class="sub_vertodos">CLIQUE E VEJA MAIS!</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-14,9-a-49,99?map=c,priceFrom" rel="nofollow">Até R$ 49</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-50-a-89,99?map=c,priceFrom" rel="nofollow">De R$ 49 a R$ 89</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-90-a-159,99?map=c,priceFrom" rel="nofollow">De R$ 90 a R$ 159</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-160-a-5000?map=c,priceFrom" rel="nofollow">Acima de 159</a></li><h3>RECOMENDAMOS</h3><li><a href="http://www.epocacosmeticos.com.br/outlet-cabelos">Outlet de Cabelos</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/kits-para-cabelos">Kits para Cabelos</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-cabelos">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/short-order-fiber-glaze-cream-not-your-mother-s-modelador-para-os-cabelos/p"><img width="325" height="270" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/218948/campeao_cliques-modelador-200217.png" alt="bannerMenuCabelos" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/218948/campeao_cliques-modelador-200217.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu dermocosmeticos"><a href="http://www.epocacosmeticos.com.br/dermocosmeticos" class="princ">Dermocosméticos</a><ul class="sub" style="left: 118px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/cuidados-com-o-sol/protetor-solar">Protetor Solar</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/face/cuidados-faciais-especificos">Cuidados Faciais</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/face/limpadores">Limpeza da Pele</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/corpo">Cuidados Corporais</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/cabelos">Cuidados com os Cabelos</a></li><h3>REJUVENESCEDORES</h3><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/face/rejuvenescedores">Face</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/olhos/rejuvenescedores">Olhos</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/dermocosmeticos" class="sub_vertodos">CLIQUE E VEJA MAIS!</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-14,9-a-69,99?map=c,priceFrom" rel="nofollow">Até R$ 69</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-70-a-99,99?map=c,priceFrom" rel="nofollow">De R$ 70 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-100-a-169,99?map=c,priceFrom" rel="nofollow">De R$ 100 a R$ 169</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-170-a-5000?map=c,priceFrom" rel="nofollow">Acima de R$ 169</a></li><h3>RECOMENDAMOS</h3><li><a href="http://www.epocacosmeticos.com.br/ganhe-brindes-dermocosmeticos">Ganhe Brindes</a></li><li><a href="http://www.epocacosmeticos.com.br/outlet-dermocosmeticos">Outlet</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-dermocosmeticos">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br//serum-corretor-h-a-intensifier-skinceuticals-rejuvenescedor-facial/p?"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/220314/campeao_cliques-ha-intensifier-060317.png" alt="bannerMenuDermocosmeticos" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/220314/campeao_cliques-ha-intensifier-060317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu tratamento"><a href="http://www.epocacosmeticos.com.br/tratamentos" class="princ">Tratamentos</a><ul class="sub" style="left: 157px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/tratamentos/face/cuidados-faciais-especificos ">Cuidados Faciais</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/face/hidratantes-faciais">Hidratantes Faciais</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/unhas">Unhas</a></li><h3>REJUVENESCEDORES</h3><li><a href="http://www.epocacosmeticos.com.br/tratamentos/face/rejuvenescedores-faciais">Face</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/olhos/rejuvenescedores">Olhos</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/labios/rejuvenescedores-labiais">Lábios</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/tratamentos" class="sub_vertodos">CLIQUE E VEJA MAIS!</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-19,9-a-79,99?map=c,priceFrom" rel="nofollow">Até R$ 79</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-80-a-199,99?map=c,priceFrom" rel="nofollow">De R$ 80 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-200-a-299,99?map=c,priceFrom" rel="nofollow">De R$ 200 a R$ 299</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-300-a-499,99?map=c,priceFrom" rel="nofollow">De R$ 300 a R$ 499</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-500-a-5000?map=c,priceFrom" rel="nofollow">Acima de R$ 499</a></li><h3>RECOMENDAMOS</h3><li><a href="http://www.epocacosmeticos.com.br/ganhe-brindes-tratamento">Ganhe Brindes</a></li><li><a href="http://www.epocacosmeticos.com.br/outlet-tratamentos">Outlet</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-tratamentos">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/exfolianting-socks-footner-meias-esfoliantes/p"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/220049/campeao_cliques-footner-060317.png" alt="bannerMenuTratamento" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/220049/campeao_cliques-footner-060317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu corpoBanho"><a href="http://www.epocacosmeticos.com.br/corpo-e-banho" class="princ">Corpo e Banho</a><ul class="sub" style="left: 196px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/banho/sabonete-e-gel-de-banho">Sabonete e Gel de Banho</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/pos-banho/hidratante">Hidratante</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/pos-banho/oleo">Óleo</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/barba">Barba</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/utilidades-diversas">Acessórios Femininos</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/corpo-e-banho" class="sub_vertodos">CLIQUE E VEJA MAIS!</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-9,9-a-39,99?map=c,priceFrom" rel="nofollow">Até R$ 39</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-40-a-99,99?map=c,priceFrom" rel="nofollow">De R$ 40 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-100-a-199,99?map=c,priceFrom" rel="nofollow">De R$ 100 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-200-a-5000?map=c,priceFrom" rel="nofollow">Acima de R$ 199</a></li><h3>RECOMENDAMOS</h3><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/kits-para-corpo-e-banho">Kits Corpo e Banho</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-corpo-e-banho">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/the-original-tangle-teezer-escova-para-os-cabelos/p"><img width="325" height="270" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/217021/campeao_cliques-tangle-teezer.png" alt="bannerMenuCorpoBanho" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/217021/campeao_cliques-tangle-teezer.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu unhas"><a href="http://www.epocacosmeticos.com.br/unhas" class="princ">Unhas</a><ul class="sub" style="left: 196px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="/unhas/esmalte">Esmaltes</a></li><li><a href="/unhas/base-para-unhas">Bases para Unhas</a></li><li><a href="/unhas/acabamento-e-fixacao">Acabamento e Fixação</a></li><li><a href="/unhas/oleo-secante">Óleos Secante</a></li><li><a href="/unhas/removedor-de-esmaltes">Removedores de Esmaltes</a></li><li><a href="/unhas/unhas-posticas-e-adesivos">Unhas Postiças e Adesivos</a></li><li><a href="/unhas/manicure-e-pedicure">Ferramentas de Manicure</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/unhas" class="sub_vertodos">CLIQUE E VEJA MAIS!</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/unhas/de-10-a-19,99?map=c,priceFrom" rel="nofollow">Até R$ 19,90</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas/de-20-a-49,99?map=c,priceFrom" rel="nofollow">De R$ 20 a R$ 49,90</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas/de-50-a-99,99?map=c,priceFrom" rel="nofollow">De R$ 50 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas/de-100-a-5000?map=c,priceFrom" rel="nofollow">Acima de R$ 100</a></li><h3>RECOMENDAMOS</h3><li><a href="/unhas/tratamentos-para-unhas/Crescimento?map=c,c,specificationFilter_158">Crescimento</a></li><li><a href="/unhas/tratamentos-para-unhas/Fortalecimento?map=c,c,specificationFilter_158">Fortalecimento</a></li><li><a href="/unhas/tratamentos-para-unhas/Endurecimento?map=c,c,specificationFilter_158">Endurecimento</a></li><li><a href="/unhas/tratamentos-para-unhas/Cuidado%20das%20Cutículas?map=c,c,specificationFilter_158">Cuidado com as cutículas</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/nail-enamel-revlon-esmalte/p"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/217022/campeao_cliques-revlon-esmalte.png" alt="bannerSubmenuUnhas" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/217022/campeao_cliques-revlon-esmalte.png" complete="complete"/></a></div><!-- The tag <vtex.cmc:bannerSubmenuUnhasHtml xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" /> is unknown. --></div></ul><!-- sub --></h2><h2 class="item_menu solares"><a href="/selecao/ofertas" class="princ"><span style="color: #FFFA1D; font-weight:bold;padding-right: 6px;">até 75% OFF</span></a></h2><h2 class="dif m_marcas"><a href="http://www.epocacosmeticos.com.br/marcas" class="princ">Marcas</a><ul class="sub fix"><div class="subMarcas"><div class="subMarcas-nav"><p><span>Navegue pelas marcas</span><a href="#" tile="Voltar" class="allBrands" rel="nofollow">Voltar</a></p><nav><ul><li><a href="#init-0-9" title="Marcas de 0 a 9">0-9</a></li><li><a href="#init-a" title="Marcas com a letra A">a</a></li><li><a href="#init-b" title="Marcas com a letra B">b</a></li><li><a href="#init-c" title="Marcas com a letra C">c</a></li><li><a href="#init-d" title="Marcas com a letra D">d</a></li><li><a href="#init-e" title="Marcas com a letra E">e</a></li><li><a href="#init-f" title="Marcas com a letra F">f</a></li><li><a href="#init-g" title="Marcas com a letra G">g</a></li><li><a href="#init-h" title="Marcas com a letra H">h</a></li><li><a href="#init-i" title="Marcas com a letra I">i</a></li><li><a href="#init-j" title="Marcas com a letra J">j</a></li><li><a href="#init-k" title="Marcas com a letra K">k</a></li><li><a href="#init-l" title="Marcas com a letra L">l</a></li><li><a href="#init-m" title="Marcas com a letra M">m</a></li><li><a href="#init-n" title="Marcas com a letra N">n</a></li><li><a href="#init-o" title="Marcas com a letra O">o</a></li><li><a href="#init-p" title="Marcas com a letra P">p</a></li><li><a href="#init-q" title="Marcas com a letra Q">q</a></li><li><a href="#init-r" title="Marcas com a letra R">r</a></li><li><a href="#init-s" title="Marcas com a letra S">s</a></li><li><a href="#init-t" title="Marcas com a letra T">t</a></li><li><a href="#init-u" title="Marcas com a letra U">u</a></li><li><a href="#init-v" title="Marcas com a letra V">v</a></li><li><a href="#init-w" title="Marcas com a letra W">w</a></li><li><a href="#init-x" title="Marcas com a letra X">x</a></li><li><a href="#init-y" title="Marcas com a letra Y">y</a></li><li><a href="#init-z" title="Marcas com a letra Z">z</a></li></ul><div class="subMarcas-nav__todos"><a href="/marcas" title="Todas as marcas">Todas</a></div></nav></div><div class="subMarcas-content"><div class="subMarcas-content__init"><div class="subMarcas-content__init--coll"><p>Mais Vendidas</p>
+<ul>
+<li><a href="/la-roche-posay" title="La Roche Posay">La Roche Posay</a></li>
+<li><a href="/calvin-klein" title="Calvin Klein">Calvin Klein</a></li>
+<li><a href="/carolina-herrera" title="Carolina Herrera">Carolina Herrera</a></li>
+<li><a href="/dior" title="Dior">Dior</a></li>
+<li><a href="/dolce-gabbana" title="Dolce & Gabbana">Dolce & Gabbana</a></li>
+<li><a href="/givenchy" title="Givenchy">Givenchy</a></li>
+<li><a href="/lancome" title="Lancôme">Lancôme</a></li>
+<li><a href="/maybelline" title="Maybelline">Maybelline</a></li>
+<li><a href="/paco-rabanne" title="Paco Rabanne">Paco Rabanne</a></li>
+<li><a href="/shiseido" title="Shiseido">Shiseido</a></li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome html não foi renderizado por nao ser um XDocument válido, erro: - An error occurred while parsing EntityName. Line 7, position 44.--></div><div class="subMarcas-content__init--coll">
+  <p>Mais queridas</p>
+  <ul>
+    <li>
+      <a href="/real-techniques" title="Real Techniques">Real Techniques</a>
+    </li>
+    <li>
+      <a href="/the-balm" title="The Balm">The Balm</a>
+    </li>
+    <li>
+      <a href="/l-oreal-professionnel" title="L'Oréal Professionnel">L'Oréal Professionnel</a>
+    </li>
+    <li>
+      <a href="/clinique" title="Clinique">Clinique</a>
+    </li>
+    <li>
+      <a href="/lola-cosmetics" title="Lola Cosmetics">Lola Cosmetics</a>
+    </li>
+    <li>
+      <a href="/prada" title="Prada">Prada</a>
+    </li>
+    <li>
+      <a href="/versace" title="Versace">Versace</a>
+    </li>
+    <li>
+      <a href="/burberry" title="Burberry">Burberry</a>
+    </li>
+    <li>
+      <a href="/tangle-teezer" title="Tangle Teezer">Tangle Teezer</a>
+    </li>
+    <li>
+      <a href="/vichy" title="Vichy">Vichy</a>
+    </li>
+  </ul>
+</div><div class="subMarcas-content__init--coll"><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/the-balm"><img width="300" height="320" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/220056/marcas-thebalm.png" alt="marcasbanner" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/220056/marcas-thebalm.png" complete="complete"/></a></div></div></div><div class="subMarcas-content__loadingBrand"></div></div></div></ul></h2><!--<h2 class="item_menu natal" style="display:none"><a href="/natal" title="Natal">Natal</a></h2>--></div></nav><!-- /HEADER --><div class="cont100"><div class="cont"><div class="bread-crumb" xmlns:v="http://rdf.data-vocabulary.org/#">
+<ul>
+<li typeof="v:Breadcrumb"><a href="http://www.epocacosmeticos.com.br/" rel="v:url" property="v:title">Época Cosméticos</a></li>
+<li   typeof="v:Breadcrumb"><a href="http://www.epocacosmeticos.com.br/perfumes" rel="v:url" property="v:title">Perfumes</a></li><li class="last"  typeof="v:Breadcrumb"><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-feminino" rel="v:url" property="v:title">Perfume Feminino</a></li></ul>
+</div>
+<div class="bannerUtm" style="display:none;">
+  <div style="height: 64px; width: 955px; margin: 0 auto;">
+    <a href="http://www.epocacosmeticos.com.br/selecao/acao" title="Pegue seu cupom">
+      <img src="http://hd.epocacosmeticos.com.br/2017/maes/EM14/topo-banner-pagina-produto-020517.jpg" alt="Pegue seu cupom" width="955" height="67" usemap="#cupomprd" />
+      <div style="position: relative; float: right; font-family: Verdana, sans-serif; font-size: 16px; top: -55px; right: 100px; color: #000000;"></div>
+    </a>
+  </div>
+</div><main class="cont_princ_prod" itemscope="" itemtype="http://schema.org/Product"><div class="esq"><div class="apresentacao">
+<div id="setaThumbs"></div>
+<div id="show">
+<div id="include">
+<div id="image" productIndex="0">
+<a href="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-500-500/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg" class="image-zoom"><img productIndex="0" id="image-main" class="sku-rich-image-main" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-320-320/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg" alt="nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino" title="nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino" /></a>
+</div>
+</div>
+<ul class="thumbs"> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-320-320/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg' zoom='http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-500-500/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg'>
+                                                        <img src='http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-55-55/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg' title='nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino' alt='nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino'/>
+                                                    </a>
+                                                </li> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='http://epocacosmeticos.vteximg.com.br/arquivos/ids/191392-320-320/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino-cx.jpg' zoom='http://epocacosmeticos.vteximg.com.br/arquivos/ids/191392-500-500/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino-cx.jpg'>
+                                                        <img src='http://epocacosmeticos.vteximg.com.br/arquivos/ids/191392-55-55/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino-cx.jpg' title='nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino' alt='nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino'/>
+                                                    </a>
+                                                </li></ul></div>
+</div>
+<div class="cont_flag"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p></div><!-- cont_flag --><div class="brinde_controle"><div id='product-gift-wrapper'>
+                        <div class='product-gift-title'>
+                            Brindes para este produto:
+                        </div>
+                        <ul>
+                            
+                        </ul>
+                     </div></div><div class="brinde"><div class="text"><h4>GANHE ESTE BRINDE!</h4><p class="descriptionBrinde"></p><!-- descricao do brinde --></div><div class="imagem"></div><!-- imagem do brinde --><div class="brinde_lightbox"><div class="overlay"></div><div class="showBrinde"><div class="close"></div><div class="contentImage"></div></div></div><!-- lightbox --></div><!-- /brinde --><div class="share"><div class="fb"><script src="//connect.facebook.net/pt_BR/all.js#xfbml=1"></script><fb:like layout="button_count" show_faces="false" width="135"></fb:like><link href="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-100-100/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg" rel="image_src" /></div><div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit" pi:pinit:layout="horizontal"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a> 
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-52cdabd77f608184"></script><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome share não foi renderizado por nao ser um XDocument válido, erro: - The ':' character, hexadecimal value 0x3A, cannot be included in a name. Line 3, position 51.--></div><!-- share --></div><!-- esq --><div class="dir"><section class="name_brand"><h1 itemprop="name"><div class="fn productName  Nuit-Rose-Limited-Edition-Fiorucci---Perfume-Feminino---Deo-Colonia---100ml ">Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Colônia - 100ml</div><input id="___rc-p-id"  type="hidden" value="9410" /><input id="___rc-p-dv-id"  type="hidden" value="39,9" /><input id="___rc-p-sku-ids"  type="hidden" value="14581" /><input id="___rc-p-kit-ids"  type="hidden" value="" /></h1><div class="brands" itemprop="brand"><div class="brandName Fiorucci "><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-feminino/fiorucci" class="brand fiorucci">Fiorucci</a></div></div><!-- brand --></section><!-- name_brand --><div class="trustvox-link"><a id="trustvox-a" href="#reviews"><div class="trustvox-widget-rating" data-trustvox-product-code-js="skuJson.productId" data-trustvox-should-skip-filter="true" data-trustvox-display-rate-schema="true"></div><span>veja as opiniões de quem já comprou</span></a></div><div class="avalia"><!-- <vtex.cmc:evaluationRate/>
+          <a href="#resenha" class="avalie">Avalie esse produto</a> --></div><!-- avalia --><div class="selectSku load"><div class="load_sku"></div><div class="sku-selector-container sku-selector-container-0" /></div><script>$('.sku-selector-container-0').skuSelector(skuJson_0, {forceInputType: 'radio', selectSingleDimensionsOnOpening: 'true'});</script><!-- A viewpart skuRichSelection esta obsoleta. Use a viewpart skuSelection para renderizar no modo de exibicao configurado --></div><div class="cont_sku"><span class="arrow"></span><div class="infoLeft"><h2>Selecione um produto</h2><div class="refSku">Ref: <div id="divStockKeepingUnitEan" class="sku-ean-wrapper">
+<span id="divStockKeepingUnitEan" class="sku-ean-title">Código de Barras</span>
+<label class="sku-ean-code">7891177019123</label>
+</div>
+</div><div class="preco"><div class="plugin-preco"><p productIndex="0" class="descricao-preco"><em productIndex="0" class="valor-de" style="display:none">De <strong productIndex="0" class="skuListPrice">R$ 0,00</strong></em><em productIndex="0" class="valor-por" >Por <strong productIndex="0" class="skuBestPrice">R$ 39,90</strong></em><em productIndex="0" class="valor-dividido" style="display:none"><span><span>ou <label productIndex="0" class="skuBestInstallmentNumber">1</label>X de</span> <strong><label productIndex="0" class="skuBestInstallmentValue">R$ 39,90</label></strong></span></em><p productIndex="0" class="preco-a-vista" style="display:block">Preço a vista: <strong productIndex="0" class="skuPrice">R$ 39,90</strong></p></p></div><script>$('.plugin-preco').price(9410);</script></div><div style="display:none"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p></div></div><!-- infoLeft --><div class="comprar_new"><!--div class="quantidade">
+              <span class="texto-quantidade">Quant.</span>
+              <input type="text" class="qtd" id="quantidade" value="1" />
+                            <div id="enviaQtd"></div>
+            </div--><div style="display:none;" class="aguardecarregando"><img src="//epocacosmeticos.vteximg.com.br/arquivos/load.gif" alt="Carregando" /></div><!--div class="comprarProd"></div--><a target="_top" class="buy-button buy-button-ref" href="https://www.epocacosmeticos.com.br/checkout/cart/add?sku=14581&qty=1&seller=1&sc=1&price=3990&cv=d4c1271238d17f833be6f1acc052d813_geral:8055E1A6C6D3FD168613DD67465E7E25&sc=1" style="display:block">Comprar</a><script>$('.buy-button-ref').buyButton(9410, {salesChannel: 1}, {})</script><p class="unavailable-button" style="display:none">Produto Esgotado</p><input type="hidden" class="buy-button-amount" value="1"><div class="portal-notify-me-ref"></div><script>var notifyMeOptions = {'strings': {"title":"Produto esgotado no momento","explanation":"\r\nNão fique triste! Preencha os campos abaixo e nós te avisamos quando ele estiver de volta :)\r\n  ","loading":"Carregando...","success":"Cadastrado com sucesso, assim que o produto for disponibilizado você receberá um email avisando.","error":"Não foi possível cadastrar. Tente mais tarde.","emailErrorMessage":"O endereço de e-mail informado é inválido."}};
+$('.portal-notify-me-ref').notifyMe(9410, notifyMeOptions);</script></div><!-- comprar --></div><!-- cont_sku --><div class="cont_infos"><div class="util"><ul><li class="prazo"><p id="popupCalculoFreteWrapper" class="frete"><a href="javascript:void(0);" title="Calcule o valor do frete e prazo de entrega para a sua região" class="shipping-value">Calcule o valor do frete e prazo de entrega para a sua região</a></p><div id="calculoFrete" style="display:none;"><div class="contentWrapper"><div class="header"><h2>Insira o CEP para calcular o prazo de entrega</h2><div class="close"><a href="javascript:void(0);" class="bt btn-thickbox" title="Fechar" id="lnkFechar1">Fechar</a></div></div><div id="ctl00_Conteudo_upnlContent"><div class="content"><fieldset><label class="prefixo">
+                                    Insira o CEP para calcular o prazo de entrega
+                                    <input type="tel" class="fitext freight-zip-box" id="txtCep" name="txtCep" maxlength="8" value="" /></label><span class="frete-calcular btBordas btBordasInput"><input type="button" class="bt freight-btn" title="OK" id="btnFreteSimulacao" value="OK" name="btnFreteSimulacao" /></span><span class="cep-busca"><a title="Não sei meu CEP" class="bt lnkExterno" target="_blank" href="http://www.buscacep.correios.com.br/sistemas/buscacep/">Não sei meu CEP</a></span></fieldset><div class="freight-values" style="display: none"></div></div></div></div></div></li><!--<div class="lista"><vtex.cmc:GiftListInsertSkuV2 /></div>--><li class="seguro">Site seguro</li></ul></div><div class="banner-produto"></div><ul class="tab"><li class="descricao ativo"><h2><a href="#">Descrição</a></h2></li><!-- <li class="dicas"><a href="#">Dicas de Aplicação</a></li> --></ul><!-- tab --><div class="cont_tab"><div class="descr"><div class="productDescription">Com sua fragrância envolvente, Fiorucci Nuit Rose, encanta as mulheres românticas e fatais. <br/><br/>O Campagne Rose, a Pimenta Rosa e a Lichia marcam as suas notas de saída, seguidas por um corpo quente com notas de Frésia, Flor de Pessego e Rosas. Por fim, as suas notas de madeira, Framboesa e Musk deixam um rastro de sedução por onde passa.</div><div id="caracteristicas"><h4 class="group Genero-">Gênero:</h4><table cellspacing="0" class="group Genero-"><tr class="even"><th class="name-field Genero-">Gênero:</th><td class="value-field Genero-">Feminino</td></tr></table><h4 class="group Concentracao-">Concentração:</h4><table cellspacing="0" class="group Concentracao-"><tr ><th class="name-field Concentracao-">Concentração:</th><td class="value-field Concentracao-">Deo Cologne</td></tr></table></div></div><div class="dicas_aplicacao" style="display:none;"><p>conteúdo abaixo da descrição - inativo. </p></div><!-- dicas_aplicacao --></div></div><!-- cont_infos --></div><!-- dir --></main><!-- cont_princ_prod --><div class="cont_baixo"><div chaordic="top"></div><div chaordic="middle"></div><div class="acessorios"></div><!--  <div class="comprejunto">
+        <vtex.cmc:BuyTogether/>
+      </div>
+
+      <div class="complementar qvvt">
+         <vtex:contentPlaceHolder id="quem-viu-viu-tambem" />
+      </div>
+
+      <div class="complementar qvctb">
+         <vtex:contentPlaceHolder id="quem-viu-comprou-tambem" />
+      </div>
+
+      <div class="complementar qcvt">
+         <vtex:contentPlaceHolder id="quem-comprou-viu-tambem" />
+      </div>
+
+      <div class="complementar sugestao">
+        <vtex:contentPlaceHolder id="sugestao" />
+      </div>
+
+      <div class="complementar similares">
+         <vtex:contentPlaceHolder id="similares" />
+      </div> --><div class="avalia trustvox_container"><span id="reviews"></span><h4>Veja as opiniões de quem já comprou</h4><div id="_trustvox_widget"></div></div><div chaordic="bottom"></div></div><!-- cont_baixo --></div><!-- cont --></div><!-- cont100 --><!-- footer --><!--<vtex:template id="footer" />--><footer class="footer"><section class="footer-top"><div class="u-center"><nav><ul><li class="destaque"><p>Destaque</p></li><li><a href="http://www.papodebeleza.com.br" title="Papo de Beleza">Papo de Beleza</a></li><li><a href="http://busca.epocacosmeticos.com.br" title="Buscas Populares">Buscas Populares</a></li><li><a href="http://www.epocacosmeticos.com.br/mais-vendidos" title="Mais Vendidos">Mais Vendidos</a></li><li><a href="http://www.epocacosmeticos.com.br/selecao/ofertas" title="Oferta do dia">Oferta do dia</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos" title="Lançamentos">Lançamentos</a></li><li><a href="http://www.epocacosmeticos.com.br/marcas" title="Todas as Marcas">Todas as Marcas</a></li><li><a href="http://www.epocacosmeticos.com.br/sitemap" title="Mapa do Site">Mapa do Site</a></li><!-- <li><a href="http://www.epocacosmeticos.com.br/blackfriday" title="Black Friday">Black Friday</a></li> --></ul><ul><li><p>Institucional</p></li><li><a href="/nossaslojas" title="Sobre a Época Cosméticos">Sobre a Época Cosméticos</a></li><li><a href="/centralatendimento/formas-pagamento" title="Formas de Pagamento">Formas de Pagamento</a></li><li><a href="/centralatendimento/entrega" title="Prazo de Entrega">Prazo de Entrega</a></li><li><a href="/centralatendimento/privacidade-seguranca" title="Privacidade e Segurança">Privacidade e Segurança</a></li></ul><ul><li><p>Atendimento</p></li><li><a href="/centralatendimento/como-comprar" title="Como Comprar">Como Comprar</a></li><li><a href="/centralatendimento" title="Central de Atendimento">Central de Atendimento</a></li><li><a href="/login?ReturnUrl=%2faccount%2forders" title="Acompanhe o seu pedido">Acompanhe o seu pedido</a></li><li><a href="/login?ReturnUrl=%2faccount%2forders" title="2ª via do Boleto">2ª via do Boleto</a></li><li><a href="/centralatendimento/troca-devolucao" title="Troca e Devolução">Troca e Devolução</a></li><li><a href="/centralatendimento/vantagens-qualidade-confianca" title="Qualidade e Confiança">Qualidade e Confiança</a></li><li><a href="/quero-cupom" title="Cupom Época Cosméticos">Cupom de Desconto</a></li></ul></nav><div class="footer-top__redes"><ul><li class="title"><p>Redes sociais</p></li><li><a href="http://www.twitter.com/epocacosmeticos" class="twitter" title="Twitter" target="_blank">Twitter</a></li><li><a href="https://www.facebook.com/EpocaCosmeticos" class="facebook" title="Facebook" target="_blank">Facebook</a></li><li><a href="http://plus.google.com/+epocacosmeticos" class="google" title="Google +" target="_blank">Google +</a></li><li><a href="http://www.youtube.com/epocacosmeticos" class="youtube" title="YouTube" target="_blank">YouTube</a></li><li><a href="https://instagram.com/epocacosmeticos" class="instagram" title="Instagram" target="_blank">Instagram</a></li></ul></div><div class="footer-top__pagamento"><ul><li class="title"><p>Pague com</p></li><li class="hiper"></li><li class="amex"></li><li class="visa"></li><li class="master"></li><li class="dinners"></li><li class="boleto"></li></ul></div></div></section><section class="footer-middle"><div class="u-center"><div class="footer-middle__selo"><p>Pode confiar na gente</p><!-- ebite --><a id="seloEbit" href="http://www.ebit.com.br/epoca-cosmeticos" target="_blank" onclick="redir(this.href);">Avaliação de Lojas e-bit</a><script type="text/javascript" id="getSelo" src="http://558701205.r.anankecdn.com.br/ebitBR/static/getSelo.js?5354"></script><!-- !ebite --><!-- site blindado --><div id="armored_website"><param id="aw_preload" value="true" /><param id="aw_use_cdn" value="true" /></div><script type="text/javascript" src="http://selo.siteblindado.com/aw.js"></script><!-- site blindado --><!-- DigiCert --><div class="digi-cert"><div id="DigiCertClickID_rDYbygEk" data-language="en_US"><a href="http://www.digicert.com/unified-communications-ssl-tls.htm"></a></div><script type="text/javascript">
+                        var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_rDYbygEk", "7", "m", "black", "rDYbygEk"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls =s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+                    </script></div><!-- ! DigiCert --><!-- site reclame aqui --><a target="_blank" href="http://www.reclameaqui.com.br/selo/"><img src="//epocacosmeticos.vteximg.com.br/arquivos/ra1000-epocacosmeticos.jpg" alt="Reclame Aqui" class="imagens_internas" /></a><img width="46" height="46" src="//epocacosmeticos.vteximg.com.br/arquivos/adipec.jpg" alt="ADIPEC" class="imagens_internas" /><!-- Selo Site Sincero --><div id="trustvox-selo-site-sincero" class="ts-modal-trigger"><img src="//epocacosmeticos.vteximg.com.br/arquivos/trustvox-selo-site-sincero-pequeno-x2.png" title="Opiniões Sinceras - Você pode confiar - Selo Site Sincero - Trustvox" alt="Opiniões Sinceras - Você pode confinar - Selo Site Sincero - Trustvox" /></div><link rel="stylesheet" type="text/css" href="//epocacosmeticos.vteximg.com.br/arquivos/trustvox-selo.css" /><script>
+                var _trustvox_certificate = _trustvox_certificate || [];
+                _trustvox_certificate.push(['_certificateId', 'epoca-cosmeticos']);
+
+                (function() {
+                var tv = document.createElement('script'); tv.type = 'text/javascript'; tv.async = true;
+                tv.src = '//s3-sa-east-1.amazonaws.com/trustvox-certificate-modal-js/widget.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tv, s);
+                })();
+                </script></div></div></section><section class="footer-bottom"><div class="u-center"><div class="footer-bottom__epoca"><img src="//epocacosmeticos.vteximg.com.br/arquivos/epoca-marca-footer.png" alt="Época Cosméticos" /></div><!-- logo_footer --><div class="footer-bottom__endereco"><p>Época Cosméticos Perfumaria | site.sac@epocacosmeticos.com.br | [21] 3202.7555 | www.epocacosmeticos.com.br
+Razão Social: Campos Floridos Comercio de Cosmeticos Ltda | CNPJ: 01.239.313/0001-60
+Rua Francisco Sá, 23 / 907 - Copacabana - Rio de Janeiro (não realizamos vendas no local)
+O preço válido será o da finalização da compra. Vendas sujeitas à análise de dados. Brindes não são vendidos.
+Brindes, cupons e descontos não são cumulativos. As imagens em nosso site são meramente ilustrativas.</p></div><!-- endereco --></div></section></footer><!-- /footer --><div id="video_lightbox"><div id="overlay"></div><div id="show_video"><div id="show_video_content"></div><!-- /conteudo video --><div id="close_lightbox"></div><!-- /fechar video --></div></div><!-- /lightBox video --><!-- boxsmart flutuante--><a href="#dialog" name="modal" style="display:none;">Janela Modal Simples</a><div id="dialog" class="boxsmart"><a href="#" class="fechar-boxsmart">Fechar [X]</a></div><div class="bg-boxsmart" style="display:none;"></div><div style="display:none;"><div class="historico-nav"><div class="ajax-content-loader" rel="/no-cache/user/navigationhistory"></div></div></div><div id="sm-bounce" data-scope="email" style="display:none"></div><!-- JS --><script type="text/javascript" src="//epocacosmeticos.vteximg.com.br/arquivos/managerProduct.js"></script><link href="/Control/ArquivoExibir.aspx?NomeArquivo=favicon.ico" rel="shortcut icon" /><link href="/Control/ArquivoExibir.aspx?NomeArquivo=favicon.png" rel="apple-touch-icon" /><script src="//epocacosmeticos.vteximg.com.br/arquivos/epc-module-menumarcas.min.js?v=4" type="text/javascript"></script><script src="http://i.btg360.com.br/lc.js" type="text/javascript" async="true"></script><script type="text/javascript" src="//epocacosmeticos.vteximg.com.br/arquivos/geral_epoca-v2.js"></script><script type="text/javascript" src="//epocacosmeticos.vteximg.com.br/arquivos/default.plugins.js"></script><link rel="stylesheet" type="text/css" href="//epocacosmeticos.vteximg.com.br/arquivos/trustvox-widget-rating-2.css" /><script type="text/javascript">
+  var _trustvox_shelf_rate = _trustvox_shelf_rate || [];
+  _trustvox_shelf_rate.push(['_storeId', '393']);
+  _trustvox_shelf_rate[1] = ["_productContainer", '.prateleira , .banners-principais-homev7 , body']
+  _trustvox_shelf_rate.push(['_watchSubtree', true]);
+</script><script type="text/javascript" async="true" src="http://s3-sa-east-1.amazonaws.com/trustvox-rate-widget-js/widget.js"></script><meta name="google-site-verification" content="GAfWb_M41bh18WdB4phMTL1Z8g7WlCSz_epAYVUPPzM" /><script src="//epocacosmeticos.vteximg.com.br/arquivos/jquery.cookie.js" type="text/javascript"></script><script src="//epocacosmeticos.vteximg.com.br/arquivos/boxsmart.js"></script><script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/Track.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/thickbox.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/json2.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.CallCenterDisclaimer.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.ajaxLoader_V2.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.commerce.batchbuy.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.jsevents.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.skuEvents.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.skuEvents.skuDataFetcher.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/jquery.livequery.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/prettyPhoto/js/jquery.prettyPhoto.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/prettyPhoto/js/lean-prettyPhoto.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/social/vtex-view-part.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.ImageControl3.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/intersect.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.skuMeasures.js?v=1.4.722.1303"  type="text/javascript"></script>
+</body>
+</html>

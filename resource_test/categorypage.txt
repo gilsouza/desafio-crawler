@@ -1,0 +1,1183 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="pt-br">
+  <head><meta name="language" content="pt-BR" />
+<meta name="country" content="BRA" />
+<meta name="currency" content="R$" />
+
+  <meta name="description" content="Perfumes Importados Masculinos e Femininos em até 10x Sem Juros e Frete Grátis* na Época Cosméticos. Compre já!" />
+<link href="https://plus.google.com/+epocacosmeticos" rel="publisher" /><!-- Favicon --><link href="/Control/ArquivoExibir.aspx?NomeArquivo=favicon.ico" rel="shortcut icon" /><link href="/Control/ArquivoExibir.aspx?NomeArquivo=favicon.png" rel="apple-touch-icon" /><!-- CSS --><title>Perfumes Importados Femininos e Masculinos - Época Cosméticos</title><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.epocacosmeticos.com.br/checkout/#/cart';var jscheckoutAddUrl = 'https://www.epocacosmeticos.com.br/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'epocacosmeticos';var jsnomeLoja = 'epocacosmeticos';var jssalesChannel = '1';var defaultStoreCurrency = 'R$';var localeInfo = {"CountryCode":"BRA","CultureCode":"pt-BR","CurrencyLocale":{"RegionDisplayName":"Brazil","RegionName":"BR","RegionNativeName":"Brasil","TwoLetterIsoRegionName":"BR","CurrencyEnglishName":"Real","CurrencyNativeName":"Real","CurrencySymbol":"R$","ISOCurrencySymbol":"BRL","Locale":1046,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/br.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {searchTerm:"",categoryId:"1000001",categoryName:"Perfumes",departmentyId:"1000001",departmentName:"Perfumes",isOrder:"0",isCheck:"0",isCart:"0",actionType:"",actionValue:"",login:"",url:"www.epocacosmeticos.com.br",transurl:"www.epocacosmeticos.com.br"};</script> 
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/mobile/mdetect.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/mobile/mdetect2.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.ajax.wait.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.common.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-i18n/0.4.1/vtex-i18n.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/front-utils/1.0.1/vtex-utils.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://dmx56ht1p4edz.cloudfront.net/rc.js?an=epocacosmeticos?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.tagmanager.helper.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.2/scripts/vtex-events-all.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-ui/1.7.2/scripts/vtex-analytics.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex.js/2.7.0/vtex.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/jquery.ui.core.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/autocomplete/jquery.ui.widget.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/autocomplete/jquery.ui.position.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/autocomplete/jquery.ui.autocomplete.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.commerce.search.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.fullTextSearchBox.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-minicart-with-template.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/vtex-id-ui/3.11.1/vtexid-jquery.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/jquery.pager.js?v=1.4.722.1303"  type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="//epocacosmeticos.vteximg.com.br/arquivos/trustvox-widget-rating-2.css" /><link rel="stylesheet" type="text/css" href="//epocacosmeticos.vteximg.com.br/arquivos/epc-desktop.css" /><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script><script type="text/javascript" src="//epocacosmeticos.vteximg.com.br/arquivos/vtex-smartResearch-novo.js" async="true"></script><!-- <vtex:metaTags/> --><link rel="canonical" href="http://www.epocacosmeticos.com.br/perfumes" /></head>
+  <body class="departamento">
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: @departamento@ -->
+
+<script>
+vtex.events.addData({"pageCategory":"Department","pageDepartment":"Perfumes","pageUrl":"http://www.epocacosmeticos.com.br/perfumes","pageTitle":"Perfumes Importados Femininos e Masculinos - Época Cosméticos","skuStockOutFromShelf":["11446"],"skuStockOutFromProductDetail":[],"shelfProductIds":["9410","9202","8506","6168","6164","4196","2950","1915","1102","1100","794","14396","13731","10122","9421","9408","9266","8747","7139","6513"],"accountName":"epocacosmeticos","pageFacets":["departmentId:1000001","categoriesFullPath:/1000001/","brandId:2000000","Familia Olfativa::Aldeído","Ocasião:Casual","Concentração::Corporal","Apresentação:100ml","priceFrom:[29.9 TO 69.99]"],"departmentId":1000001,"departmentName":"Perfumes","categoryId":1000001,"categoryName":"Perfumes"});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-WDK7Q6');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('departmentView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer"></div><!-- HEADER --><section class="bannerTripa"></section><div class="header_flutuante"><div class="top100"><div class="top"><div class="logo"><a href="/">Época Cosméticos - Perfumaria</a></div><div class="search"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBoxa961815d81ba4986bbf3b35281ea9519', 'ftDepta961815d81ba4986bbf3b35281ea9519', 'ftIdxa961815d81ba4986bbf3b35281ea9519', 'ftBtna961815d81ba4986bbf3b35281ea9519', '/SEARCHTERM','Busque por produtos, marcas etc' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDepta961815d81ba4986bbf3b35281ea9519"><option value="">Todo o site</option><option value="1000001">Perfumes</option><option value="1000004">Maquiagem</option><option value="1000037">Cabelos</option><option value="1000070">Corpo e Banho</option><option value="1000089">Tratamentos</option><option value="1000130">Dermocosméticos</option><option value="1000013">Unhas</option></select><input type="hidden" id=ftIdxa961815d81ba4986bbf3b35281ea9519 value="" /><input id="ftBoxa961815d81ba4986bbf3b35281ea9519" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtna961815d81ba4986bbf3b35281ea9519" type="button" value="Buscar" class="btn-buscar" /></fieldset></div><!-- search --><div class="regua">
+  <ul>
+    <li class="frete">
+      <p>FRETE GRÁTIS</p>
+      <span>acima de R$ 89</span>
+    </li>
+    <li class="parcela">
+      <span>até</span>
+      <i>10x</i>
+      <p>SEM JUROS</p>
+    </li>
+  </ul>
+</div><!-- regua --><!-- Menu dropdown de deps do topo flutuante--><ul class="menu_dept"><li class="item"><a href="#" class="item">Departamentos</a><ul class="sub_dept"><li><a href="http://www.epocacosmeticos.com.br/perfumes">Perfumes</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem">Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos">Cabelos</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos">Dermocosméticos</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos">Tratamentos</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho">Corpo e Banho</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas">Unhas</a></li><li><a href="http://www.epocacosmeticos.com.br/selecao/ofertas">Ofertas</a></li></ul></li></ul><a href="https://www.epocacosmeticos.com.br/checkout/#/cart" class="carrinho"><div class="portal-totalizers-ref"></div><script>$('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });</script><span class="item">itens</span></a><!-- carrinho --></div><!-- top --></div><!-- top100 --></div><div class="topbanner first-visity" style="display:none;"><div class="contentOptin"><form action="#" method="post"><div class="title-form"><p><strong>Cadastre-se aqui e ganhe 10% de desconto!</strong></p></div><input type="text" name="email" class="mail" placeholder="Digite seu e-mail" /><input type="text" name="nome" class="name" placeholder="Digite seu nome" /><div class="genero"><label class="labelGener"><input type="radio" name="gender" value="Masculino" checked="" />Homem
+                </label><label class="labelGener"><input type="radio" name="gender" value="Feminino" />Mulher
+                </label><label class="labelSms"><input type="checkbox" name="sms" value="aceito" checked="checked" />
+                    Aceito receber emails e SMS com promoções
+                </label></div><input type="hidden" name="data" id="cadastro" /><input type="submit" name="enviadois" class="btn_form" value="" /></form></div><!--<vtex.cmc:bannerTopoNovaVisita />--><!-- <vtex:bannerTopo /> --><a href="#" class="close"></a></div><div class="topbar100"><div class="topbar"><div class="welc"><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('2c13dfe4-78b6-4b0e-9a66-c0f2c3cb7c6f');
+                                        vtexid.setScopeName('epocacosmeticos');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/perfumes',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome"></div></div><!-- welc --><ul class="menu_topbar"><li class="televendas"><p>Televendas: <span>(21) 3202.7555</span></p></li><li class="meuspedidos"><a href="http://www.epocacosmeticos.com.br/account/orders">Meus Pedidos</a></li><li class="atendimento"><a href="http://www.epocacosmeticos.com.br/centralatendimento">Atendimento</a></li></ul><!--   --></div><!-- topbar --></div><div class="top100"><div class="top"><div class="logo"><a href="/">Época Cosméticos - Perfumaria</a></div><div class="search"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBoxa64b65490f56495280dabbc02079a9ae', 'ftDepta64b65490f56495280dabbc02079a9ae', 'ftIdxa64b65490f56495280dabbc02079a9ae', 'ftBtna64b65490f56495280dabbc02079a9ae', '/SEARCHTERM','Busque por produtos, marcas etc' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDepta64b65490f56495280dabbc02079a9ae"><option value="">Todo o site</option><option value="1000001">Perfumes</option><option value="1000004">Maquiagem</option><option value="1000037">Cabelos</option><option value="1000070">Corpo e Banho</option><option value="1000089">Tratamentos</option><option value="1000130">Dermocosméticos</option><option value="1000013">Unhas</option></select><input type="hidden" id=ftIdxa64b65490f56495280dabbc02079a9ae value="" /><input id="ftBoxa64b65490f56495280dabbc02079a9ae" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtna64b65490f56495280dabbc02079a9ae" type="button" value="Buscar" class="btn-buscar" /></fieldset></div><!-- search --><div class="regua">
+  <ul>
+    <li class="frete">
+      <p>FRETE GRÁTIS</p>
+      <span>acima de R$ 89</span>
+    </li>
+    <li class="parcela">
+      <span>até</span>
+      <i>10x</i>
+      <p>SEM JUROS</p>
+    </li>
+  </ul>
+</div><!-- regua --><a href="https://www.epocacosmeticos.com.br/checkout/#/cart" class="carrinho"><div class="portal-totalizers-ref"></div><script>$('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });</script><span class="item">itens</span></a><!-- carrinho --></div><!-- top --></div><nav class="menu100"><div class="menu"><h2 class="item_menu perfumes"><a href="http://www.epocacosmeticos.com.br/perfumes" class="princ">Perfumes</a><ul class="sub" style="left: 0px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-feminino">Perfumes Femininos</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-masculino">Perfumes Masculinos</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/kits-de-perfumes">Kits de Perfumes</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-unissex">Perfume Unissex</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-infantil">Perfume Infantil</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-para-o-corpo">Perfume Corporal</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/perfumes" class="sub_vertodos">+ PERFUMES</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-29,9-a-69,99?map=c,priceFrom" title="Perfumes até R$ 69">Até R$ 69</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-70-a-99,99?map=c,priceFrom" title="Perfumes até R$ 99">De R$ 70 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-100-a-199,99?map=c,priceFrom" title="Perfumes de R$ 100 a R$ 199">De R$ 100 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-200-a-299,99?map=c,priceFrom" title="Perfumes de R$ 200 a R$ 299">De R$ 200 a R$ 299</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-300-a-399,99?map=c,priceFrom" title="Perfumes de R$ 300 a R$ 399">De R$ 300 a R$ 399</a></li><li><a href="http://www.epocacosmeticos.com.br/perfumes/de-400-a-5000?map=c,priceFrom" title="Perfumes acima de R$ 399">Acima de R$ 399</a></li><h3>RECOMENDAMOS</h3><!-- <li><a href="/ganhe-brindes-perfumes">Ganhe Brindes</a></li> --><li><a href="http://www.epocacosmeticos.com.br/perfumes/377?map=c,productClusterIds">Ofertas em Perfumes</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/polo-eau-de-toilette-ralph-lauren-perfume-masculino/p?"><img width="325" height="270" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/221292/campeao-cliques-ralph-lauren-230317.png" alt="bannerMenuPerfume" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/221292/campeao-cliques-ralph-lauren-230317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu maquiagem"><a href="http://www.epocacosmeticos.com.br/maquiagem" class="princ">Maquiagem</a><ul class="sub" style="left: 40px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/maquiagem/labios/batom">Batom</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/unhas/esmalte">Esmalte</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/face/base">Base</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/face/po-facial">Pó Facial</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/olhos/sombra">Sombra</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/olhos/mascara-para-cilios">Máscara para Cílios</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/primer-e-finalizador/fixador-da-maquiagem">Fixador de Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/aplicadores-para-maquiagem/pincel-ou-aplicador">Pincéis de Maquiagem</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/maquiagem" class="sub_vertodos">+ MAQUIAGENS</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-14,9-a-59,99?map=c,priceFrom" title="Maquiagem até R$ 59">Até R$ 59</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-60-a-99,99?map=c,priceFrom" title="Maquiagem de R$ 60 a R$ 99">De R$ 60 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-100-a-159,99?map=c,priceFrom" title="Maquiagem de R$ 100 a R$ 159">De R$ 100 a R$ 159</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-160-a-199,99?map=c,priceFrom" title="Maquiagem de R$ 160 a R$ 199">De R$ 160 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/de-200-a-5000?map=c,priceFrom" title="Maquiagem acima de R$ 199">Acima de R$ 199</a></li><h3>RECOMENDAMOS</h3><!-- <li><a href="/ganhe-brindes-maquiagem">Ganhe Brindes</a></li> --><li><a href="http://www.epocacosmeticos.com.br/maquiagem/377?map=c,productClusterIds">Ofertas em Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/maquiagem/estojo-completo-e-kit-de-maquiagem">Kits de Maquiagem</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-maquiagem">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/nude-tude-palette-the-balm-palheta-de-sombras/p?"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/221294/campeao-cliques-the-balm-230317.png" alt="bannerMenuMaquiagen" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/221294/campeao-cliques-the-balm-230317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu cabelos"><a href="http://www.epocacosmeticos.com.br/cabelos" class="princ">Cabelos</a><ul class="sub" style="left: 79px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/cabelos/shampoo">Shampoo</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/condicionador">Condicionador</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/mascara-capilar">Máscara Capilar</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/finalizador">Finalizador</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/tratamento">Tratamento</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/coloracao/tintura-para-cabelos">Tintura de Cabelo</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/cabelos" class="sub_vertodos">+ CABELOS</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-14,9-a-49,99?map=c,priceFrom" title="Produtos para cabelo até R$ 49">Até R$ 49</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-50-a-89,99?map=c,priceFrom" title="Produtos para cabelo de R$ 49 a R$ 89">De R$ 49 a R$ 89</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-90-a-159,99?map=c,priceFrom" title="Produtos para cabelo de R$ 90 a R$ 159">De R$ 90 a R$ 159</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/de-160-a-5000?map=c,priceFrom" title="Produtos para cabelo acima de R$ 159">Acima de 159</a></li><h3>RECOMENDAMOS</h3><li><a href="http://www.epocacosmeticos.com.br/cabelos/377?map=c,productClusterIds">Ofertas em Cabelos</a></li><li><a href="http://www.epocacosmeticos.com.br/cabelos/kits-para-cabelos">Kits para Cabelos</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-cabelos">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/short-order-fiber-glaze-cream-not-your-mother-s-modelador-para-os-cabelos/p"><img width="325" height="270" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/218948/campeao_cliques-modelador-200217.png" alt="bannerMenuCabelos" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/218948/campeao_cliques-modelador-200217.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu dermocosmeticos"><a href="http://www.epocacosmeticos.com.br/dermocosmeticos" class="princ">Dermocosméticos</a><ul class="sub" style="left: 118px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/cuidados-com-o-sol/protetor-solar">Protetor Solar</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/face/cuidados-faciais-especificos">Cuidados Faciais</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/face/limpadores">Limpeza da Pele</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/corpo">Cuidados Corporais</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/cabelos">Cuidados com os Cabelos</a></li><h3>REJUVENESCEDORES</h3><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/face/rejuvenescedores">Face</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/olhos/rejuvenescedores">Olhos</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/dermocosmeticos" class="sub_vertodos">+ DERMOCOSMÉTICOS</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-14,9-a-69,99?map=c,priceFrom" title="Dermocosméticos até R$ 69">Até R$ 69</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-70-a-99,99?map=c,priceFrom" title="Dermocosméticos de R$ 70 a R$ 99">De R$ 70 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-100-a-169,99?map=c,priceFrom" title="Dermocosméticos de R$ 100 a R$ 169">De R$ 100 a R$ 169</a></li><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/de-170-a-5000?map=c,priceFrom" title="Dermocosméticos acima de R$ 169">Acima de R$ 169</a></li><h3>RECOMENDAMOS</h3><!--<li><a href="http://www.epocacosmeticos.com.br/ganhe-brindes-dermocosmeticos">Ganhe Brindes</a></li> --><li><a href="http://www.epocacosmeticos.com.br/dermocosmeticos/377?map=c,productClusterIds">Ofertas em Dermo</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-dermocosmeticos">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br//serum-corretor-h-a-intensifier-skinceuticals-rejuvenescedor-facial/p?"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/220314/campeao_cliques-ha-intensifier-060317.png" alt="bannerMenuDermocosmeticos" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/220314/campeao_cliques-ha-intensifier-060317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu tratamento"><a href="http://www.epocacosmeticos.com.br/tratamentos" class="princ">Tratamentos</a><ul class="sub" style="left: 157px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/tratamentos/face/cuidados-faciais-especificos ">Cuidados Faciais</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/face/hidratantes-faciais">Hidratantes Faciais</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/unhas">Unhas</a></li><h3>REJUVENESCEDORES</h3><li><a href="http://www.epocacosmeticos.com.br/tratamentos/face/rejuvenescedores-faciais">Face</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/olhos/rejuvenescedores">Olhos</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/labios/rejuvenescedores-labiais">Lábios</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/tratamentos" class="sub_vertodos">+ TRATAMENTOS</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-19,9-a-79,99?map=c,priceFrom" title="Tratamento até R$ 79">Até R$ 79</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-80-a-199,99?map=c,priceFrom" title="Tratamento de R$ 80 a R$ 199">De R$ 80 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-200-a-299,99?map=c,priceFrom" title="Tratamento de R$ 200 a R$ 299">De R$ 200 a R$ 299</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-300-a-499,99?map=c,priceFrom" title="Tratamento de R$ 300 a R$ 499">De R$ 300 a R$ 499</a></li><li><a href="http://www.epocacosmeticos.com.br/tratamentos/de-500-a-5000?map=c,priceFrom" title="Tratamento acima de R$ 499">Acima de R$ 499</a></li><h3>RECOMENDAMOS</h3><!-- <li><a href="http://www.epocacosmeticos.com.br/ganhe-brindes-tratamento">Ganhe Brindes</a></li> --><li><a href="http://www.epocacosmeticos.com.br/tratamentos/377?map=c,productClusterIds">Ofertas em Tratamentos</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-tratamentos">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/exfolianting-socks-footner-meias-esfoliantes/p"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/220049/campeao_cliques-footner-060317.png" alt="bannerMenuTratamento" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/220049/campeao_cliques-footner-060317.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu corpoBanho"><a href="http://www.epocacosmeticos.com.br/corpo-e-banho" class="princ">Corpo e Banho</a><ul class="sub" style="left: 196px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/banho/sabonete-e-gel-de-banho">Sabonete e Gel de Banho</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/pos-banho/hidratante">Hidratante</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/pos-banho/oleo">Óleo</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/barba">Barba</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/utilidades-diversas">Acessórios Femininos</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/corpo-e-banho" class="sub_vertodos">+ CORPO E BANHO</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-9,9-a-39,99?map=c,priceFrom" title="Corpo e Banho até R$ 39">Até R$ 39</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-40-a-99,99?map=c,priceFrom" title="Corpo e Banho de R$ 40 a R$ 99">De R$ 40 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-100-a-199,99?map=c,priceFrom" title="Corpo e Banho de R$ 100 a R$ 199">De R$ 100 a R$ 199</a></li><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/de-200-a-5000?map=c,priceFrom" title="Corpo e Banho acima de R$ 199">Acima de R$ 199</a></li><h3>RECOMENDAMOS</h3><li><a href="http://www.epocacosmeticos.com.br/corpo-e-banho/kits-para-corpo-e-banho">Kits Corpo e Banho</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos-corpo-e-banho">Lançamentos</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/the-original-tangle-teezer-escova-para-os-cabelos/p"><img width="325" height="270" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/217021/campeao_cliques-tangle-teezer.png" alt="bannerMenuCorpoBanho" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/217021/campeao_cliques-tangle-teezer.png" complete="complete"/></a></div></div></ul><!-- sub --></h2><h2 class="item_menu unhas"><a href="http://www.epocacosmeticos.com.br/unhas" class="princ">Unhas</a><ul class="sub" style="left: 196px;"><div class="col col1"><h3>CATEGORIAS</h3><li><a href="/unhas/esmalte">Esmaltes</a></li><li><a href="/unhas/base-para-unhas">Bases para Unhas</a></li><li><a href="/unhas/acabamento-e-fixacao">Acabamento e Fixação</a></li><li><a href="/unhas/oleo-secante">Óleos Secante</a></li><li><a href="/unhas/removedor-de-esmaltes">Removedores de Esmaltes</a></li><li><a href="/unhas/unhas-posticas-e-adesivos">Unhas Postiças e Adesivos</a></li><li><a href="/unhas/manicure-e-pedicure">Ferramentas de Manicure</a></li><div class="botao-submenu"><a href="http://www.epocacosmeticos.com.br/unhas" class="sub_vertodos">+ UNHAS</a></div></div><div class="col col3"><h3>POR FAIXA DE PREÇO</h3><li><a href="http://www.epocacosmeticos.com.br/unhas/de-10-a-19,99?map=c,priceFrom" title="Produtos para Unhas até R$ 19">Até R$ 19,90</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas/de-20-a-49,99?map=c,priceFrom" title="Produtos para Unhas de R$ 20 a R$ 49">De R$ 20 a R$ 49,90</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas/de-50-a-99,99?map=c,priceFrom" title="Produtos para Unhas de R$ 50 a R$ 99">De R$ 50 a R$ 99</a></li><li><a href="http://www.epocacosmeticos.com.br/unhas/de-100-a-5000?map=c,priceFrom" title="Produtos para Unhas acima de R$ 100">Acima de R$ 100</a></li><h3>RECOMENDAMOS</h3><li><a href="/unhas/tratamentos-para-unhas/Crescimento?map=c,c,specificationFilter_158">Crescimento</a></li><li><a href="/unhas/tratamentos-para-unhas/Fortalecimento?map=c,c,specificationFilter_158">Fortalecimento</a></li><li><a href="/unhas/tratamentos-para-unhas/Endurecimento?map=c,c,specificationFilter_158">Endurecimento</a></li><li><a href="/unhas/tratamentos-para-unhas/Cuidado%20das%20Cutículas?map=c,c,specificationFilter_158">Cuidado com as cutículas</a></li></div><div class="col prod_banner"><h3>Ei! Olha que legal:</h3><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/nail-enamel-revlon-esmalte/p"><img width="325" height="275" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/217022/campeao_cliques-revlon-esmalte.png" alt="bannerSubmenuUnhas" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/217022/campeao_cliques-revlon-esmalte.png" complete="complete"/></a></div><!-- The tag <vtex.cmc:bannerSubmenuUnhasHtml xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" /> is unknown. --></div></ul><!-- sub --></h2><h2 class="item_menu solares"><a href="/selecao/ofertas" class="princ"><span style="color: #FFFA1D; font-weight:bold;padding-right: 6px;">até 75% OFF</span></a></h2><h2 class="dif m_marcas"><a href="http://www.epocacosmeticos.com.br/marcas" class="princ">Marcas</a><ul class="sub fix"><div class="subMarcas"><div class="subMarcas-nav"><p><span>Navegue pelas marcas</span><a href="#" tile="Voltar" class="allBrands">Voltar</a></p><nav><ul><li><a href="#init-0-9">0-9</a></li><li><a href="#init-a">a</a></li><li><a href="#init-b">b</a></li><li><a href="#init-c">c</a></li><li><a href="#init-d">d</a></li><li><a href="#init-e">e</a></li><li><a href="#init-f">f</a></li><li><a href="#init-g">g</a></li><li><a href="#init-h">h</a></li><li><a href="#init-i">i</a></li><li><a href="#init-j">j</a></li><li><a href="#init-k">k</a></li><li><a href="#init-l">l</a></li><li><a href="#init-m">m</a></li><li><a href="#init-n">n</a></li><li><a href="#init-o">o</a></li><li><a href="#init-p">p</a></li><li><a href="#init-q">q</a></li><li><a href="#init-r">r</a></li><li><a href="#init-s">s</a></li><li><a href="#init-t">t</a></li><li><a href="#init-u">u</a></li><li><a href="#init-v">v</a></li><li><a href="#init-w">w</a></li><li><a href="#init-x">x</a></li><li><a href="#init-y">y</a></li><li><a href="#init-z">z</a></li></ul><div class="subMarcas-nav__todos"><a href="/marcas" title="Todas as marcas">Todas</a></div></nav></div><div class="subMarcas-content"><div class="subMarcas-content__init"><div class="subMarcas-content__init--coll"><p>Mais Vendidas</p>
+<ul>
+<li><a href="/la-roche-posay" title="La Roche Posay">La Roche Posay</a></li>
+<li><a href="/calvin-klein" title="Calvin Klein">Calvin Klein</a></li>
+<li><a href="/carolina-herrera" title="Carolina Herrera">Carolina Herrera</a></li>
+<li><a href="/dior" title="Dior">Dior</a></li>
+<li><a href="/dolce-gabbana" title="Dolce & Gabbana">Dolce & Gabbana</a></li>
+<li><a href="/givenchy" title="Givenchy">Givenchy</a></li>
+<li><a href="/lancome" title="Lancôme">Lancôme</a></li>
+<li><a href="/maybelline" title="Maybelline">Maybelline</a></li>
+<li><a href="/paco-rabanne" title="Paco Rabanne">Paco Rabanne</a></li>
+<li><a href="/shiseido" title="Shiseido">Shiseido</a></li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome html não foi renderizado por nao ser um XDocument válido, erro: - An error occurred while parsing EntityName. Line 7, position 44.--></div><div class="subMarcas-content__init--coll">
+  <p>Mais queridas</p>
+  <ul>
+    <li>
+      <a href="/real-techniques" title="Real Techniques">Real Techniques</a>
+    </li>
+    <li>
+      <a href="/the-balm" title="The Balm">The Balm</a>
+    </li>
+    <li>
+      <a href="/l-oreal-professionnel" title="L'Oréal Professionnel">L'Oréal Professionnel</a>
+    </li>
+    <li>
+      <a href="/clinique" title="Clinique">Clinique</a>
+    </li>
+    <li>
+      <a href="/lola-cosmetics" title="Lola Cosmetics">Lola Cosmetics</a>
+    </li>
+    <li>
+      <a href="/prada" title="Prada">Prada</a>
+    </li>
+    <li>
+      <a href="/versace" title="Versace">Versace</a>
+    </li>
+    <li>
+      <a href="/burberry" title="Burberry">Burberry</a>
+    </li>
+    <li>
+      <a href="/tangle-teezer" title="Tangle Teezer">Tangle Teezer</a>
+    </li>
+    <li>
+      <a href="/vichy" title="Vichy">Vichy</a>
+    </li>
+  </ul>
+</div><div class="subMarcas-content__init--coll"><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/the-balm"><img width="300" height="320" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/220056/marcas-thebalm.png" alt="marcasbanner" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/220056/marcas-thebalm.png" complete="complete"/></a></div></div></div><div class="subMarcas-content__loadingBrand"></div></div></div></ul></h2><!--<h2 class="item_menu natal" style="display:none"><a href="/natal" title="Natal">Natal</a></h2>--></div></nav><!-- /HEADER --><div class="cont100"><div class="cont"><section class="categoria-top"><div class="categoria-top__h1">
+  <h1>Perfumes Importados</h1>
+</div><div class="bread-crumb">
+<ul>
+<li><a title="Época Cosméticos" href="/">Época Cosméticos</a></li>
+<li class="last"><strong><a title="Perfumes" href="http://www.epocacosmeticos.com.br/perfumes">Perfumes</a></strong></li></ul>
+</div>
+</section><!-- <div class="topo-departamento">
+            <vtex:contentPlaceHolder id="banner-maior-955-50" />
+        </div> --><div class="banners_dept"><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/nina-ricci"><img width="665" height="265" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/223801/departamento_1-ninaricci-260417.png" alt="banner-maior" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/223801/departamento_1-ninaricci-260417.png" complete="complete"/></a></div><div class="box-banner"><a href="http://www.epocacosmeticos.com.br/mugler"><img width="280" height="265" id="ihttp://epocacosmeticos.vteximg.com.br/arquivos/ids/223083/departamento_2-MUGLER.png" alt="banner-menor" src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/223083/departamento_2-MUGLER.png" complete="complete"/></a></div></div><!-- banners_dept --><!-- MARCAS --><div class="marcas">
+    <ul>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/paco-rabanne" title="Perfumes Paco Rabanne"><img src="//epocacosmeticos.vteximg.com.br/arquivos/paco-rabanne_carrossel.jpg" alt="Perfumes Paco Rabanne"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/lancome" title="Perfumes Lâncome"><img src="//epocacosmeticos.vteximg.com.br/arquivos/lancome_carrossel.jpg" alt="Perfumes Lâncome" /></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/dior" title="Perfumes Dior"><img src="//epocacosmeticos.vteximg.com.br/arquivos/dior_carrossel.jpg" alt="Perfumes Dior"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/carolina-herrera"
+            title="Perfumes Carolina Herrera"><img src="//epocacosmeticos.vteximg.com.br/arquivos/carolina-herrera_carrossel.jpg" alt="Perfumes Carolina Herrera"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/givenchy" title="Perfumes Givenchy"><img src="//epocacosmeticos.vteximg.com.br/arquivos/givenchy_carrossel.jpg" alt="Perfumes Givenchy"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/calvin-klein" title="Perfumes Calvin Klein"><img src="//epocacosmeticos.vteximg.com.br/arquivos/calvin-klein_carrossel.jpg" alt="Perfumes Calvin Klein"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/azzaro" title="Perfumes Azzaro"><img src="//epocacosmeticos.vteximg.com.br/arquivos/azzaro_carrossel.jpg" alt="Perfumes Azzaro"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/dolce-gabbana" title="Perfumes Dolce & Gabbana"><img src="//epocacosmeticos.vteximg.com.br/arquivos/dolce-gabbana_carrossel.jpg" alt="Perfumes Dolce & Gabbana"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/giorgio-armani" title="Perfumes Giorgio Armani"><img src="//epocacosmeticos.vteximg.com.br/arquivos/giorgio-armani_carrossel.jpg" alt="Perfumes Giorgio Armani" /></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/kenzo" title="Perfumes Kenzo"><img src="//epocacosmeticos.vteximg.com.br/arquivos/kenzo_carrossel.jpg" alt="Perfumes Kenzo"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/ferrari" title="Perfumes Ferrari"><img src="//epocacosmeticos.vteximg.com.br/arquivos/ferrari_carrossel.jpg" alt="Perfumes Ferrari"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/ralph-lauren" title="Perfumes Ralph Lauren"><img src="//epocacosmeticos.vteximg.com.br/arquivos/ralph-lauren_carrossel.jpg" alt="Perfumes Ralph Lauren"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/elizabeth-arden" title="Perfumes Elizabeth Arden"><img src="//epocacosmeticos.vteximg.com.br/arquivos/elizabeth-arden_carrossel.jpg" alt="Perfumes Elizabeth Arden"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/montblanc" title="Perfumes Montblanc"><img src="//epocacosmeticos.vteximg.com.br/arquivos/montblanc_carrossel.jpg" alt="Perfumes Montblanc"/></a>
+        </li>
+        <li>
+            <a href="http://www.epocacosmeticos.com.br/perfumes/animale" title="Perfumes Animale"><img src="//epocacosmeticos.vteximg.com.br/arquivos/animale_carrossel.jpg" alt="Perfumes Animale" title="Perfumes Animale na Época Cosméticos" /></a>
+        </li>
+    </ul>
+    <!-- marcas -->
+</div><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome Carrossel não foi renderizado por nao ser um XDocument válido, erro: - An error occurred while parsing EntityName. Line 26, position 103.--><!-- MARCAS --><div chaordic="top"></div><aside class="sidebar"><div id="ctl00_Conteudo_ctl02_divSideBar" class="navigation"><div id="ctl00_Conteudo_ctl02_divSideBarUnica1" class="menu-departamento"><span class="rt"></span><span class="rb"></span><h3 class="perfumes"><span></span><a href="http://www.epocacosmeticos.com.br/departamento/perfumes/1000001" title="Perfumes">Perfumes</a></h3>
+<h4 class="perfumes"><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-feminino" title="Perfume Feminino">Perfume Feminino (833)</a></h4>
+<h4 class="perfumes even"><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-masculino" title="Perfume Masculino">Perfume Masculino (638)</a></h4>
+<h4 class="perfumes"><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-unissex" title="Perfume Unissex">Perfume Unissex (42)</a></h4>
+<h4 class="perfumes even"><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-infantil" title="Perfume Infantil">Perfume Infantil (3)</a></h4>
+<h4 class="perfumes"><a href="http://www.epocacosmeticos.com.br/perfumes/perfume-para-o-corpo" title="Perfume para o Corpo">Perfume para o Corpo (12)</a></h4>
+<h4 class="perfumes even"><a href="http://www.epocacosmeticos.com.br/perfumes/kits-de-perfumes" title="Kits de Perfumes">Kits de Perfumes</a></h4>
+<ul class="kits-de-perfumes even">
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/kits-de-perfumes/kits-femininos" title="Kits Femininos">Kits Femininos (96)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/kits-de-perfumes/kits-masculinos" title="Kits Masculinos">Kits Masculinos (102)</a></li>
+<li class="last"><a href="http://www.epocacosmeticos.com.br/perfumes/kits-de-perfumes/kits-unissex" title="Kits Unissex">Kits Unissex (6)</a></li>
+</ul><h4 class="perfumes"><a href="http://www.epocacosmeticos.com.br/perfumes/perfumes-para-ambiente" title="Perfumes para Ambiente">Perfumes para Ambiente (7)</a></h4>
+<h5 class=" even">Marca</h5>
+<ul class=" even">
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/1902" title="1902">1902 (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/47-street" title="47 Street">47 Street (6)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/4711" title="4711">4711 (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/abercrombie---fitch" title="Abercrombie & Fitch">Abercrombie & Fitch (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/adelante" title="Adelante">Adelante (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/adidas" title="Adidas">Adidas (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/agatha-ruiz-de-la-prada" title="Agatha Ruiz de La Prada">Agatha Ruiz de La Prada (15)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/agent-provocateur" title="Agent Provocateur">Agent Provocateur (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/agua-brava" title="Agua Brava">Agua Brava (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/alaia" title="Alaïa">Alaïa (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/alta-moda" title="Alta Moda">Alta Moda (6)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/ana-hickmann" title="Ana Hickmann">Ana Hickmann (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/animale" title="Animale">Animale (14)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/antonio-banderas" title="Antonio Banderas">Antonio Banderas (23)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/arno-sorel" title="Arno Sorel">Arno Sorel (12)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/arsenal" title="Arsenal">Arsenal (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/azzaro" title="Azzaro">Azzaro (22)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/baldessarini" title="Baldessarini">Baldessarini (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/balmain" title="Balmain">Balmain (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/barbie" title="Barbie">Barbie (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/bebe" title="Bebe">Bebe (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/benetton" title="Benetton">Benetton (15)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/beyonce" title="Beyoncé">Beyoncé (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/bi-es" title="Bi.es">Bi.es (15)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/blumarine" title="Blumarine">Blumarine (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/boucheron" title="Boucheron">Boucheron (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/bourjois" title="Bourjois">Bourjois (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/britney-spears" title="Britney Spears">Britney Spears (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/bruno-banani" title="Bruno Banani">Bruno Banani (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/burberry" title="Burberry">Burberry (23)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/bvlgari" title="BVLGARI">BVLGARI (18)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/cacharel" title="Cacharel">Cacharel (11)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/cafe-cafe" title="Café-Café">Café-Café (13)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/calvin-klein" title="Calvin Klein">Calvin Klein (27)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/carolina-herrera" title="Carolina Herrera">Carolina Herrera (39)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/cartier" title="Cartier">Cartier (20)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/carven" title="Carven">Carven (7)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/chloe" title="Chloé">Chloé (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/christina-aguilera" title="Christina Aguilera">Christina Aguilera (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/christine-darvin" title="Christine Darvin">Christine Darvin (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/christopher-dark" title="Christopher Dark">Christopher Dark (16)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/clarins" title="Clarins">Clarins (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/clinique" title="Clinique">Clinique (6)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/coach" title="Coach">Coach (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/cuba-paris" title="Cuba Paris">Cuba Paris (48)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/davidoff" title="Davidoff">Davidoff (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/dior" title="Dior">Dior (37)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/dkny" title="DKNY">DKNY (6)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/dolce-gabbana" title="Dolce&Gabbana">Dolce&Gabbana (16)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/dsquared" title="Dsquared">Dsquared (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/dunhill-london" title="Dunhill London">Dunhill London (6)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/elie-saab" title="Elie Saab">Elie Saab (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/elizabeth-arden" title="Elizabeth Arden">Elizabeth Arden (9)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/ermenegildo-zegna" title="Ermenegildo Zegna">Ermenegildo Zegna (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/escada" title="Escada">Escada (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/everlast" title="Everlast">Everlast (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/ferrari" title="Ferrari">Ferrari (23)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/fiorucci" title="Fiorucci">Fiorucci (30)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/forum" title="Forum">Forum (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/gabriela-sabatini" title="Gabriela Sabatini">Gabriela Sabatini (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/gap" title="GAP">GAP (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/georges-mezotti" title="Georges Mezotti">Georges Mezotti (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/giorgio-armani" title="Giorgio Armani">Giorgio Armani (15)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/giorgio-beverly-hills" title="Giorgio Beverly Hills">Giorgio Beverly Hills (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/giovanna-baby" title="Giovanna Baby">Giovanna Baby (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/givenchy" title="Givenchy">Givenchy (37)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/gres" title="Gres">Gres (11)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/gucci" title="Gucci">Gucci (17)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/guess" title="Guess">Guess (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/guy-laroche" title="Guy Laroche">Guy Laroche (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/hollister" title="Hollister">Hollister (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/hugo-boss" title="Hugo Boss">Hugo Boss (16)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/i-scents" title="I-Scents">I-Scents (11)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/issey-miyake" title="Issey Miyake">Issey Miyake (17)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jacomo" title="Jacomo">Jacomo (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jacques-bogart" title="Jacques Bogart">Jacques Bogart (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jaguar" title="Jaguar">Jaguar (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/james-bond" title="James Bond">James Bond (7)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jardin-de-france" title="Jardin de France">Jardin de France (9)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jean-paul-gaultier" title="Jean Paul Gaultier">Jean Paul Gaultier (11)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jean-pierre-sand" title="Jean Pierre Sand">Jean Pierre Sand (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jeanne-arthes" title="Jeanne Arthes">Jeanne Arthes (19)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jeanne-d-urfe" title="Jeanne D'urfé">Jeanne D'urfé (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jennifer-lopez" title="Jennifer Lopez">Jennifer Lopez (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/jimmy-choo" title="Jimmy Choo">Jimmy Choo (11)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/john-varvatos" title="John Varvatos">John Varvatos (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/johnson-baby" title="Johnson Baby">Johnson Baby (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/joop-" title="Joop!">Joop! (14)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/juicy-couture" title="Juicy Couture">Juicy Couture (7)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/juliana-paes" title="Juliana Paes">Juliana Paes (12)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/justin-bieber" title="Justin Bieber">Justin Bieber (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/kaloo" title="Kaloo">Kaloo (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/karl-lagerfeld" title="Karl Lagerfeld">Karl Lagerfeld (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/kenzo" title="Kenzo">Kenzo (33)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/kokeshi" title="Kokeshi">Kokeshi (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/korres" title="Korres">Korres (25)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/kosiuko" title="Kosiuko">Kosiuko (6)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/la-prairie" title="La Prairie">La Prairie (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/la-rive" title="La Rive">La Rive (13)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/lacoste" title="Lacoste">Lacoste (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/lady-gaga" title="Lady Gaga">Lady Gaga (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/lalique" title="Lalique">Lalique (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/lancome" title="Lancôme">Lancôme (16)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/lanvin" title="Lanvin">Lanvin (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/l-eau-de-rio" title="L'eau de Riô">L'eau de Riô (12)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/linn-young" title="Linn Young">Linn Young (26)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/lonkoom" title="Lonkoom">Lonkoom (36)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/malizia" title="Malizia">Malizia (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/marc-jacobs" title="Marc Jacobs">Marc Jacobs (7)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/marina-de-bourbon" title="Marina de Bourbon">Marina de Bourbon (9)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/mercedes-benz" title="Mercedes Benz">Mercedes Benz (9)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/molyneux" title="Molyneux">Molyneux (8)</a></li>
+<li class="last"><a href="http://www.epocacosmeticos.com.br/perfumes/monotheme" title="Monotheme">Monotheme (14)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/mont-anne" title="Mont'anne">Mont'anne (18)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/montblanc" title="Montblanc">Montblanc (21)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/moschino" title="Moschino">Moschino (7)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/mtv" title="MTV">MTV (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/mugler" title="Mugler">Mugler (20)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/naomi-campbell" title="Naomi Campbell">Naomi Campbell (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/narciso-rodriguez" title="Narciso Rodriguez">Narciso Rodriguez (12)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/nazareno-gabrielli" title="Nazareno Gabrielli">Nazareno Gabrielli (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/nicki-minaj" title="Nicki Minaj">Nicki Minaj (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/nina-ricci" title="Nina Ricci">Nina Ricci (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/nu-parfums" title="Nu Parfums">Nu Parfums (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/oceane" title="Océane">Océane (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/omerta" title="Omerta">Omerta (24)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/organica" title="Orgânica">Orgânica (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/oscar-de-la-renta" title="Oscar de La Renta">Oscar de La Renta (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/pacha-ibiza" title="Pacha Ibiza">Pacha Ibiza (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/paco-rabanne" title="Paco Rabanne">Paco Rabanne (28)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/paloma-picasso" title="Paloma Picasso">Paloma Picasso (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/parfums-pergolese-paris" title="Parfums Pergolèse Paris">Parfums Pergolèse Paris (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/paris-bleu" title="Paris Bleu">Paris Bleu (20)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/paris-club" title="Paris Club">Paris Club (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/paris-elysees" title="Paris Elysees">Paris Elysees (45)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/phytoderm" title="Phytoderm">Phytoderm (29)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/playboy" title="Playboy">Playboy (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/podium-22" title="Podium 22">Podium 22 (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/police" title="Police">Police (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/prada" title="Prada">Prada (21)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/puccini-paris" title="Puccini Paris">Puccini Paris (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/puma" title="Puma">Puma (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/quorum" title="Quorum">Quorum (1)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/ralph-lauren" title="Ralph Lauren">Ralph Lauren (21)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/real-time" title="Real Time">Real Time (17)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/repetto" title="Repetto">Repetto (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/roberto-cavalli" title="Roberto Cavalli">Roberto Cavalli (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/s-t--dupont" title="S.T. Dupont">S.T. Dupont (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/salvador-dali" title="Salvador Dali">Salvador Dali (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/salvatore-ferragamo" title="Salvatore Ferragamo">Salvatore Ferragamo (9)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/shakira" title="Shakira">Shakira (23)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/shirley-may" title="Shirley May">Shirley May (7)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/shiseido" title="Shiseido">Shiseido (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/sisley" title="Sisley">Sisley (7)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/ted-lapidus" title="Ted Lapidus">Ted Lapidus (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/tommy-hilfiger" title="Tommy Hilfiger">Tommy Hilfiger (9)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/ulric-de-varens" title="Ulric de Varens">Ulric de Varens (40)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/valentino" title="Valentino">Valentino (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/van-cleef---arpels" title="Van Cleef & Arpels">Van Cleef & Arpels (4)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/versace" title="Versace">Versace (19)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/via-paris" title="Via Paris">Via Paris (11)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/victorinox" title="Victorinox">Victorinox (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/viktor---rolf" title="Viktor & Rolf">Viktor & Rolf (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/vivinevo" title="Vivinevo">Vivinevo (10)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/yves-de-sistelle-parfums" title="Yves de Sistelle Parfums">Yves de Sistelle Parfums (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/yves-saint-laurent" title="Yves Saint Laurent">Yves Saint Laurent (11)</a></li>
+</ul><h5 class="">Familia Olfativa:</h5>
+<ul class="">
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Aldeído?map=c,specificationFilter_7" title="Aldeído">Aldeído (8)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Amadeirado?map=c,specificationFilter_7" title="Amadeirado">Amadeirado (500)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Ambarino?map=c,specificationFilter_7" title="Ambarino">Ambarino (44)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Aquático?map=c,specificationFilter_7" title="Aquático">Aquático (77)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Aromático?map=c,specificationFilter_7" title="Aromático">Aromático (288)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Chipre?map=c,specificationFilter_7" title="Chipre">Chipre (55)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Cítrico?map=c,specificationFilter_7" title="Cítrico">Cítrico (138)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Especiarado?map=c,specificationFilter_7" title="Especiarado">Especiarado (131)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Floral?map=c,specificationFilter_7" title="Floral">Floral (769)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Fougére?map=c,specificationFilter_7" title="Fougére">Fougére (134)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Frutal?map=c,specificationFilter_7" title="Frutal">Frutal (381)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Gustativo?map=c,specificationFilter_7" title="Gustativo">Gustativo (22)</a></li>
+<li class="last"><a href="http://www.epocacosmeticos.com.br/perfumes/Oriental?map=c,specificationFilter_7" title="Oriental">Oriental (249)</a></li>
+</ul><h5 class=" even">Ocasião</h5>
+<ul class=" even">
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Casual?map=c,specificationFilter_9" title="Casual">Casual (358)</a></li>
+<li class="last"><a href="http://www.epocacosmeticos.com.br/perfumes/Sofisticada?map=c,specificationFilter_9" title="Sofisticada">Sofisticada (277)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Dia?map=c,specificationFilter_9" title="Dia">Dia (130)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Noite?map=c,specificationFilter_9" title="Noite">Noite (125)</a></li>
+</ul><h5 class="">Concentração:</h5>
+<ul class="">
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Eau de Parfum - EDP?map=c,specificationFilter_10" title="Eau de Parfum - EDP">Eau de Parfum - EDP (533)</a></li>
+<li class="last"><a href="http://www.epocacosmeticos.com.br/perfumes/Eau de Toilette - EDT?map=c,specificationFilter_10" title="Eau de Toilette - EDT">Eau de Toilette - EDT (922)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Eau de Cologne - EDC?map=c,specificationFilter_10" title="Eau de Cologne - EDC">Eau de Cologne - EDC (67)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Deo Cologne?map=c,specificationFilter_10" title="Deo Cologne">Deo Cologne (66)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Corporal?map=c,specificationFilter_10" title="Corporal">Corporal (13)</a></li>
+</ul><h5 class=" even">Apresentação</h5>
+<ul class=" even">
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/30ml?map=c,specificationFilter_311" title="30ml">30ml (48)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/45ml?map=c,specificationFilter_311" title="45ml">45ml (2)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/50ml?map=c,specificationFilter_311" title="50ml">50ml (88)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/75ml?map=c,specificationFilter_311" title="75ml">75ml (17)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/90ml?map=c,specificationFilter_311" title="90ml">90ml (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/100ml?map=c,specificationFilter_311" title="100ml">100ml (105)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/125ml?map=c,specificationFilter_311" title="125ml">125ml (3)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Kit de Produtos?map=c,specificationFilter_311" title="Kit de Produtos">Kit de Produtos (86)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Miniatura?map=c,specificationFilter_311" title="Miniatura">Miniatura (5)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/Refil?map=c,specificationFilter_311" title="Refil">Refil (1)</a></li>
+<li class="last"><a href="http://www.epocacosmeticos.com.br/perfumes/Refilável?map=c,specificationFilter_311" title="Refilável">Refilável (2)</a></li>
+</ul><h5 class="">Faixa de preço</h5>
+<ul class="">
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/de-29,9-a-69,99?map=c,priceFrom" title="Até R$ 69">Até R$ 69 (301)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/de-70-a-99,99?map=c,priceFrom" title="De R$ 70 a R$ 99">De R$ 70 a R$ 99 (169)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/de-100-a-199,99?map=c,priceFrom" title="De R$ 100 a R$ 199">De R$ 100 a R$ 199 (268)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/de-200-a-299,99?map=c,priceFrom" title="De R$ 200 a R$ 299">De R$ 200 a R$ 299 (253)</a></li>
+<li><a href="http://www.epocacosmeticos.com.br/perfumes/de-300-a-399,99?map=c,priceFrom" title="De R$ 300 a R$ 399">De R$ 300 a R$ 399 (182)</a></li>
+<li class="last"><a href="http://www.epocacosmeticos.com.br/perfumes/de-400-a-5000?map=c,priceFrom" title="Acima de R$ 400">Acima de R$ 400 (159)</a></li>
+</ul></div></div><div class="urlLastSearch" style="display:none">http://www.epocacosmeticos.com.br/perfumes</div><div class="vc_sabia"></div><!-- vc_sabia --></aside><!-- sidebar --><main role="main" class="conteudo"><section itemscope="true" itemtype="http://schema.org/ItemList"><div class="main"><p class="searchResultsTime"><span class="resultado-busca-numero"><span class="label">Produtos encontrados:</span> <span class="value">1695</span></span><span class="resultado-busca-termo"> <span class="label">Resultado da Pesquisa por:</span> <strong class="value"></strong></span><span class="resultado-busca-tempo"> <span class="label">em</span> <span class="value">234 ms</span></span></p><div class="sub"><div class="resultado-busca-filtro">
+<fieldset class="orderBy">
+<label>Ordenar por:</label>
+<select id="O" onchange="window.location.href= '/perfumes?PS=20&' + 'O=' + this.options[this.selectedIndex].value">
+<option  value="">Selecione</option>
+<option  value="OrderByPriceASC">Menor Preço</option>
+<option  value="OrderByPriceDESC">Maior Preço</option>
+<option  value="OrderByTopSaleDESC">Mais vendidos</option>
+<option  value="OrderByReviewRateDESC">Melhores avaliações</option>
+<option  value="OrderByNameASC">A - Z</option>
+<option  value="OrderByNameDESC">Z - A</option>
+<option  value="OrderByReleaseDateDESC">Data de lançamento</option>
+<option  value="OrderByBestDiscountDESC">Melhor Desconto</option>
+</select>
+</fieldset>
+<fieldset class="filterBy">
+Itens por página:
+<select id="PS" onchange="window.location.href= '/perfumes?' + 'PS=' + this.options[this.selectedIndex].value">
+<option selected="selected" value="20">20</option>
+<option  value="40">40</option>
+<option  value="60">60</option>
+<option  value="80">80</option>
+</select>
+</fieldset>
+<p class="compare">Produtos selecionados para comparar: <strong><span class="compare-selection-count" id="NumeroSuperior">0</span></strong><a title="Comparar" class="btn-comparar" href="#">Comparar</a></p></div></div><div class="vitrine resultItemsWrapper">
+            <script type='text/javascript'>
+            var pagecount_23277324;
+            $(document).ready(function () {
+                pagecount_23277324 = 85;
+                $('#PagerTop_23277324').pager({ pagenumber: 1, pagecount: pagecount_23277324, buttonClickCallback: PageClick_23277324 });
+                $('#PagerBottom_23277324').pager({ pagenumber: 1, pagecount: pagecount_23277324, buttonClickCallback: PageClick_23277324 });
+                if (window.location.hash != '') PageClick_23277324(window.location.hash.replace(/\#/, ''));
+            });
+            PageClick_23277324 = function(pageclickednumber) {
+                window.location.hash = pageclickednumber;
+                $('#ResultItems_23277324').load('/buscapagina?fq=C%3a%2f1000001%2f&PS=20&sl=ae17d111-2690-49d2-bb26-164b5236a7bf&cc=4&sm=0&PageNumber=' + pageclickednumber,
+                    function() {
+                        $('#PagerTop_23277324').pager({ pagenumber: pageclickednumber, pagecount: pagecount_23277324, buttonClickCallback: PageClick_23277324 });
+                        $('#PagerBottom_23277324').pager({ pagenumber: pageclickednumber, pagecount: pagecount_23277324, buttonClickCallback: PageClick_23277324 });
+                    bindQuickView();
+                });
+            }</script><div class="pager top" id="PagerTop_23277324"></div><div id="ResultItems_23277324" class="prat-home-2016"><div class="prat-home-2016 n4colunas"><ul><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="9410">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191391-178-174/nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino.jpg" width="178" height="174" alt="nuit-rose-limited-edition-deo-colonia-100ml-fiorucci-perfume-feminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="9410"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand fiorucci" href="http://www.epocacosmeticos.com.br/fiorucci">Fiorucci</a></p>
+
+<h3><a title="Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p">Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Colônia</a></h3>
+
+
+    <p class="price">
+        <a title="Nuit Rose Limited Edition Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p">
+            <span class="oldPrice"></span>
+            <span class="newPrice">R$ 39,90</span>
+            <em class="installment">
+                                    à vista
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/nuit-rose-limited-edition-deo-colonia-fiorucci-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_9410" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="9202">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="La Petite Fleur d’amour Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/la-petite-fleur-damour-eau-de-toilette-paris-elysees-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/197798-178-174/la-petite-fleur-damour-eau-de-toilette-paris-elysees-perfume-feminino.jpg" width="178" height="174" alt="la-petite-fleur-damour-eau-de-toilette-paris-elysees-perfume-feminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="9202"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand paris-elysees" href="http://www.epocacosmeticos.com.br/paris-elysees">Paris Elysees</a></p>
+
+<h3><a title="La Petite Fleur d’amour Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/la-petite-fleur-damour-eau-de-toilette-paris-elysees-perfume-feminino/p">La Petite Fleur d’amour Paris Elysees - Perfume Feminino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="La Petite Fleur d’amour Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/la-petite-fleur-damour-eau-de-toilette-paris-elysees-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 74,00</span></span>
+            <span class="newPrice">R$ 59,00</span>
+            <em class="installment">
+                                    2X de R$ 29,50
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/la-petite-fleur-damour-eau-de-toilette-paris-elysees-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_9202" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="8506">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Bebe Desire Bebe - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/bebe-desire-eau-de-parfum-bebe-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/222243-178-174/Bebe-Desire-Bebe---Perfume-Feminino---Eau-de-Parfum.jpg" width="178" height="174" alt="Bebe-Desire-Bebe---Perfume-Feminino---Eau-de-Parfum" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="8506"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand bebe" href="http://www.epocacosmeticos.com.br/bebe">Bebe</a></p>
+
+<h3><a title="Bebe Desire Bebe - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/bebe-desire-eau-de-parfum-bebe-perfume-feminino/p">Bebe Desire Bebe - Perfume Feminino - Eau de Parfum</a></h3>
+
+
+    <p class="price">
+        <a title="Bebe Desire Bebe - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/bebe-desire-eau-de-parfum-bebe-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 365,80</span></span>
+            <span class="newPrice">R$ 109,70</span>
+            <em class="installment">
+                                    5X de R$ 21,94
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/bebe-desire-eau-de-parfum-bebe-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_8506" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos last">
+<!--
+ -->
+
+<input type="hidden" class="id" value="6168">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="L&#39;eau par Kenzo Mirror Edition pour Femme Kenzo - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/l-eau-par-kenzo-mirror-edition-pour-femme-eau-de-toilette-kenzo-perfume-feminino-/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/177606-178-174/leau-par-kenzo-mirror-edition-femme-edt-kenzo.jpg" width="178" height="174" alt="leau-par-kenzo-mirror-edition-femme-edt-kenzo" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="6168"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand kenzo" href="http://www.epocacosmeticos.com.br/kenzo">Kenzo</a></p>
+
+<h3><a title="L&#39;eau par Kenzo Mirror Edition pour Femme Kenzo - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/l-eau-par-kenzo-mirror-edition-pour-femme-eau-de-toilette-kenzo-perfume-feminino-/p">L'eau par Kenzo Mirror Edition pour Femme Kenzo - Perfume Feminino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="L&#39;eau par Kenzo Mirror Edition pour Femme Kenzo - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/l-eau-par-kenzo-mirror-edition-pour-femme-eau-de-toilette-kenzo-perfume-feminino-/p">
+            <span class="oldPrice"><span>R$ 199,00</span></span>
+            <span class="newPrice">R$ 99,90</span>
+            <em class="installment">
+                                    4X de R$ 24,97
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/l-eau-par-kenzo-mirror-edition-pour-femme-eau-de-toilette-kenzo-perfume-feminino-/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_6168" style="display:none" class="helperComplement"></li></ul><ul><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="6164">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Very Irr&#233;sistible L`eau en Rose Givenchy - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/very-irresistible-l-eau-en-rose-eau-de-toilette-givenchy-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/186007-178-174/very-irresistible-leau-en-rose-eau-de-toilette-givenchy-perfume-feminino-30ml.jpg" width="178" height="174" alt="Frasco do Perfume Feminino Very Irrésistible L'eau en Rose Eau de Toilette 30ml" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="6164"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand givenchy" href="http://www.epocacosmeticos.com.br/givenchy">Givenchy</a></p>
+
+<h3><a title="Very Irr&#233;sistible L`eau en Rose Givenchy - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/very-irresistible-l-eau-en-rose-eau-de-toilette-givenchy-perfume-feminino/p">Very Irrésistible L`eau en Rose Givenchy - Perfume Feminino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Very Irr&#233;sistible L`eau en Rose Givenchy - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/very-irresistible-l-eau-en-rose-eau-de-toilette-givenchy-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 249,00</span></span>
+            <span class="newPrice">R$ 119,50</span>
+            <em class="installment">
+                                    5X de R$ 23,90
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/very-irresistible-l-eau-en-rose-eau-de-toilette-givenchy-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_6164" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="4196">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="La Vie Est Belle Lanc&#244;me - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/la-vie-est-belle-eau-de-parfum-lancome-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/217670-178-174/la-vie-est-belle-eau-de-parfum-lancome-perfume-feminino-1.jpg" width="178" height="174" alt="la-vie-est-belle-eau-de-parfum-lancome-perfume-feminino-1" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="4196"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand lancome" href="http://www.epocacosmeticos.com.br/lancome">Lancôme</a></p>
+
+<h3><a title="La Vie Est Belle Lanc&#244;me - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/la-vie-est-belle-eau-de-parfum-lancome-perfume-feminino/p">La Vie Est Belle Lancôme - Perfume Feminino - Eau de Parfum</a></h3>
+
+
+    <p class="price">
+        <a title="La Vie Est Belle Lanc&#244;me - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/la-vie-est-belle-eau-de-parfum-lancome-perfume-feminino/p">
+            <span class="oldPrice"></span>
+            <span class="newPrice">R$ 299,00</span>
+            <em class="installment">
+                                    10X de R$ 29,90
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/la-vie-est-belle-eau-de-parfum-lancome-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_4196" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="2950">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Billion Woman Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/billion-woman-eau-de-toilette-paris-elysees-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/197771-178-174/billion-woman-eau-de-toilette-100ml-paris-elysees-perfume-feminino.jpg" width="178" height="174" alt="billion-woman-eau-de-toilette-100ml-paris-elysees-perfume-feminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="2950"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand paris-elysees" href="http://www.epocacosmeticos.com.br/paris-elysees">Paris Elysees</a></p>
+
+<h3><a title="Billion Woman Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/billion-woman-eau-de-toilette-paris-elysees-perfume-feminino/p">Billion Woman Paris Elysees - Perfume Feminino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Billion Woman Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/billion-woman-eau-de-toilette-paris-elysees-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 69,00</span></span>
+            <span class="newPrice">R$ 54,90</span>
+            <em class="installment">
+                                    2X de R$ 27,45
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/billion-woman-eau-de-toilette-paris-elysees-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_2950" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos last">
+<!--
+ -->
+
+<input type="hidden" class="id" value="1915">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Sexy Woman Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/sexy-woman-eau-de-toilette-paris-elysees-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/197752-178-174/sexy-woman-edt-100ml-paris-elysees.jpg" width="178" height="174" alt="sexy-woman-edt-100ml-paris-elysees" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="1915"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand paris-elysees" href="http://www.epocacosmeticos.com.br/paris-elysees">Paris Elysees</a></p>
+
+<h3><a title="Sexy Woman Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/sexy-woman-eau-de-toilette-paris-elysees-perfume-feminino/p">Sexy Woman Paris Elysees - Perfume Feminino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Sexy Woman Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/sexy-woman-eau-de-toilette-paris-elysees-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 69,00</span></span>
+            <span class="newPrice">R$ 54,90</span>
+            <em class="installment">
+                                    2X de R$ 27,45
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/sexy-woman-eau-de-toilette-paris-elysees-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_1915" style="display:none" class="helperComplement"></li></ul><ul><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="1102">
+<input type="hidden" class="category" value="Perfume Masculino">
+
+<a class="productImage" title="Masculin Ouragan Bourjois - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/masculin-ouragan-eau-de-toilette-bourjois-perfume-masculino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/161534-178-174/masculin-ouragan-edt-100ml-bourjois.jpg" width="178" height="174" alt="Masculin-Ouragan-Eau-De-Toilette-Bourjois---Perfume-Masculino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="1102"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand bourjois" href="http://www.epocacosmeticos.com.br/bourjois">Bourjois</a></p>
+
+<h3><a title="Masculin Ouragan Bourjois - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/masculin-ouragan-eau-de-toilette-bourjois-perfume-masculino/p">Masculin Ouragan Bourjois - Perfume Masculino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Masculin Ouragan Bourjois - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/masculin-ouragan-eau-de-toilette-bourjois-perfume-masculino/p">
+            <span class="oldPrice"><span>R$ 64,90</span></span>
+            <span class="newPrice">R$ 24,00</span>
+            <em class="installment">
+                                    à vista
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/masculin-ouragan-eau-de-toilette-bourjois-perfume-masculino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_1102" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="1100">
+<input type="hidden" class="category" value="Perfume Masculino">
+
+<a class="productImage" title="Masculin Acier Sport Bourjois - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/masculin-acier-sport-eau-de-toilette-bourjois-perfume-masculino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/161532-178-174/masculin-acier-sport-edt-100ml-bourjois.jpg" width="178" height="174" alt="Masculin-Acier-Sport-Eau-De-Toilette-Bourjois---Perfume-Masculino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="1100"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand bourjois" href="http://www.epocacosmeticos.com.br/bourjois">Bourjois</a></p>
+
+<h3><a title="Masculin Acier Sport Bourjois - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/masculin-acier-sport-eau-de-toilette-bourjois-perfume-masculino/p">Masculin Acier Sport Bourjois - Perfume Masculino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Masculin Acier Sport Bourjois - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/masculin-acier-sport-eau-de-toilette-bourjois-perfume-masculino/p">
+            <span class="oldPrice"><span>R$ 64,90</span></span>
+            <span class="newPrice">R$ 24,60</span>
+            <em class="installment">
+                                    à vista
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/masculin-acier-sport-eau-de-toilette-bourjois-perfume-masculino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_1100" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="794">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Lady Gaga Fame Lady Gaga - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/lady-gaga-fame-eau-de-parfum-lady-gaga-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/164487-178-174/lady-gaga-fame-edp-100ml-lady-gaga.jpg" width="178" height="174" alt="Lady-Gaga-Fame-Eau-De-Parfum-Lady-Gaga---Perfume-Feminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="794"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand lady-gaga" href="http://www.epocacosmeticos.com.br/lady-gaga">Lady Gaga</a></p>
+
+<h3><a title="Lady Gaga Fame Lady Gaga - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/lady-gaga-fame-eau-de-parfum-lady-gaga-perfume-feminino/p">Lady Gaga Fame Lady Gaga - Perfume Feminino - Eau de Parfum</a></h3>
+
+
+    <p class="price">
+        <a title="Lady Gaga Fame Lady Gaga - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/lady-gaga-fame-eau-de-parfum-lady-gaga-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 149,90</span></span>
+            <span class="newPrice">R$ 74,90</span>
+            <em class="installment">
+                                    3X de R$ 24,96
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/lady-gaga-fame-eau-de-parfum-lady-gaga-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_794" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos last">
+<!--
+ -->
+
+<input type="hidden" class="id" value="14396">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Blugirl Jus de Fleurs Eau de Toilette Blumarine - Perfume Feminino" href="http://www.epocacosmeticos.com.br/jus-de-fleurs-eau-de-toilette-blumarine-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/215941-178-174/jusdefleurseaudetoiletteblumarineperfumefeminino.jpg" width="178" height="174" alt="jusdefleurseaudetoiletteblumarineperfumefeminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="14396"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand blumarine" href="http://www.epocacosmeticos.com.br/blumarine">Blumarine</a></p>
+
+<h3><a title="Blugirl Jus de Fleurs Eau de Toilette Blumarine - Perfume Feminino" href="http://www.epocacosmeticos.com.br/jus-de-fleurs-eau-de-toilette-blumarine-perfume-feminino/p">Blugirl Jus de Fleurs Eau de Toilette Blumarine - Perfume Feminino</a></h3>
+
+
+    <p class="price">
+        <a title="Blugirl Jus de Fleurs Eau de Toilette Blumarine - Perfume Feminino" href="http://www.epocacosmeticos.com.br/jus-de-fleurs-eau-de-toilette-blumarine-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 189,00</span></span>
+            <span class="newPrice">R$ 52,90</span>
+            <em class="installment">
+                                    2X de R$ 26,45
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/jus-de-fleurs-eau-de-toilette-blumarine-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_14396" style="display:none" class="helperComplement"></li></ul><ul><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="13731">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Good Girl Carolina Herrera - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/good-girl-eau-de-parfum-carolina-herrera-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/211519-178-174/good-girl-eau-de-parfum-carolina-herrera-perfume-feminino-30ml.jpg" width="178" height="174" alt="good-girl-eau-de-parfum-carolina-herrera-perfume-feminino-30ml" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="13731"></div>
+
+<div class="discount"> </div>
+
+<p class="brand"><a class="texto brand carolina-herrera" href="http://www.epocacosmeticos.com.br/carolina-herrera">Carolina Herrera</a></p>
+
+<h3><a title="Good Girl Carolina Herrera - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/good-girl-eau-de-parfum-carolina-herrera-perfume-feminino/p">Good Girl Carolina Herrera - Perfume Feminino - Eau de Parfum</a></h3>
+
+
+    <p class="price">
+        <a title="Good Girl Carolina Herrera - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/good-girl-eau-de-parfum-carolina-herrera-perfume-feminino/p">
+            <span class="oldPrice"></span>
+            <span class="newPrice">R$ 299,00</span>
+            <em class="installment">
+                                    10X de R$ 29,90
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/good-girl-eau-de-parfum-carolina-herrera-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_13731" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="10122">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Sexy Woman Night Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/sexy-woman-night-eau-de-toilette-paris-elysees-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/194585-178-174/sexy-woman-night-eau-de-toilette-100ml-paris-elysees-perfume-feminino.jpg" width="178" height="174" alt="sexy-woman-night-eau-de-toilette-100ml-paris-elysees-perfume-feminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="10122"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand paris-elysees" href="http://www.epocacosmeticos.com.br/paris-elysees">Paris Elysees</a></p>
+
+<h3><a title="Sexy Woman Night Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/sexy-woman-night-eau-de-toilette-paris-elysees-perfume-feminino/p">Sexy Woman Night Paris Elysees - Perfume Feminino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Sexy Woman Night Paris Elysees - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/sexy-woman-night-eau-de-toilette-paris-elysees-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 69,00</span></span>
+            <span class="newPrice">R$ 54,90</span>
+            <em class="installment">
+                                    2X de R$ 27,45
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/sexy-woman-night-eau-de-toilette-paris-elysees-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_10122" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="9421">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Paris Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/paris-deo-colonia-fiorucci-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191412-178-174/paris-deo-colonia-80ml-fiorucci-perfume-feminino.jpg" width="178" height="174" alt="paris-deo-colonia-80ml-fiorucci-perfume-feminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="9421"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand fiorucci" href="http://www.epocacosmeticos.com.br/fiorucci">Fiorucci</a></p>
+
+<h3><a title="Paris Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/paris-deo-colonia-fiorucci-perfume-feminino/p">Paris Fiorucci - Perfume Feminino - Deo Colônia</a></h3>
+
+
+    <p class="price">
+        <a title="Paris Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/paris-deo-colonia-fiorucci-perfume-feminino/p">
+            <span class="oldPrice"></span>
+            <span class="newPrice">R$ 37,90</span>
+            <em class="installment">
+                                    à vista
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/paris-deo-colonia-fiorucci-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_9421" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos last">
+<!--
+ -->
+
+<input type="hidden" class="id" value="9408">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Majestic Pour Femme Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/majestic-pour-femme-deo-colonia-fiorucci-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/191387-178-174/majestic-pour-femme-deo-colonia-90ml-fiorucci-perfume-feminino.jpg" width="178" height="174" alt="majestic-pour-femme-deo-colonia-90ml-fiorucci-perfume-feminino" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="9408"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand fiorucci" href="http://www.epocacosmeticos.com.br/fiorucci">Fiorucci</a></p>
+
+<h3><a title="Majestic Pour Femme Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/majestic-pour-femme-deo-colonia-fiorucci-perfume-feminino/p">Majestic Pour Femme Fiorucci - Perfume Feminino - Deo Colônia</a></h3>
+
+
+    <p class="price">
+        <a title="Majestic Pour Femme Fiorucci - Perfume Feminino - Deo Col&#244;nia" href="http://www.epocacosmeticos.com.br/majestic-pour-femme-deo-colonia-fiorucci-perfume-feminino/p">
+            <span class="oldPrice"></span>
+            <span class="newPrice">R$ 44,90</span>
+            <em class="installment">
+                                    2X de R$ 22,45
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/majestic-pour-femme-deo-colonia-fiorucci-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_9408" style="display:none" class="helperComplement"></li></ul><ul><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="9266">
+<input type="hidden" class="category" value="Perfume Masculino">
+
+<a class="productImage" title="Billion Casino Royal Paris Elysees - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/billion-casino-royal-eau-de-toilette-paris-elysees-perfume-masculino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/197808-178-174/billion-casino-royal-edt-100ml-paris-elysees.jpg" width="178" height="174" alt="billion-casino-royal-edt-100ml-paris-elysees" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="9266"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand paris-elysees" href="http://www.epocacosmeticos.com.br/paris-elysees">Paris Elysees</a></p>
+
+<h3><a title="Billion Casino Royal Paris Elysees - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/billion-casino-royal-eau-de-toilette-paris-elysees-perfume-masculino/p">Billion Casino Royal Paris Elysees - Perfume Masculino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Billion Casino Royal Paris Elysees - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/billion-casino-royal-eau-de-toilette-paris-elysees-perfume-masculino/p">
+            <span class="oldPrice"><span>R$ 69,00</span></span>
+            <span class="newPrice">R$ 54,90</span>
+            <em class="installment">
+                                    2X de R$ 27,45
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/billion-casino-royal-eau-de-toilette-paris-elysees-perfume-masculino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_9266" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="8747">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Intense For Woman Animale - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/intense-for-woman-eau-de-parfum-animale-perfume-feminino-100ml/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/189472-178-174/animale-intense-for-women-edp.jpg" width="178" height="174" alt="animale-intense-for-women-edp" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="8747"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand animale" href="http://www.epocacosmeticos.com.br/animale">Animale</a></p>
+
+<h3><a title="Intense For Woman Animale - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/intense-for-woman-eau-de-parfum-animale-perfume-feminino-100ml/p">Intense For Woman Animale - Perfume Feminino - Eau de Parfum</a></h3>
+
+
+    <p class="price">
+        <a title="Intense For Woman Animale - Perfume Feminino - Eau de Parfum" href="http://www.epocacosmeticos.com.br/intense-for-woman-eau-de-parfum-animale-perfume-feminino-100ml/p">
+            <span class="oldPrice"><span>R$ 197,00</span></span>
+            <span class="newPrice">R$ 98,50</span>
+            <em class="installment">
+                                    4X de R$ 24,62
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/intense-for-woman-eau-de-parfum-animale-perfume-feminino-100ml/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_8747" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos">
+<!--
+ -->
+
+<input type="hidden" class="id" value="7139">
+<input type="hidden" class="category" value="Perfume Feminino">
+
+<a class="productImage" title="Lady Million Eau my Gold Paco Rabanne - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/lady-million-eau-my-gold-eau-de-toilette-paco-rabanne-perfume-feminino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/182210-178-174/lady-million-50ml.jpg" width="178" height="174" alt="lady-million-50ml" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="7139"></div>
+
+<div class="discount"> </div>
+
+<p class="brand"><a class="texto brand paco-rabanne" href="http://www.epocacosmeticos.com.br/paco-rabanne">Paco Rabanne</a></p>
+
+<h3><a title="Lady Million Eau my Gold Paco Rabanne - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/lady-million-eau-my-gold-eau-de-toilette-paco-rabanne-perfume-feminino/p">Lady Million Eau my Gold Paco Rabanne - Perfume Feminino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Lady Million Eau my Gold Paco Rabanne - Perfume Feminino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/lady-million-eau-my-gold-eau-de-toilette-paco-rabanne-perfume-feminino/p">
+            <span class="oldPrice"><span>R$ 299,00</span></span>
+            <span class="newPrice">R$ 209,00</span>
+            <em class="installment">
+                                    10X de R$ 20,90
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/lady-million-eau-my-gold-eau-de-toilette-paco-rabanne-perfume-feminino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_7139" style="display:none" class="helperComplement"></li><li layout="ae17d111-2690-49d2-bb26-164b5236a7bf" class="perfumes-importados-femininos-e-masculinos---epoca-cosmeticos last">
+<!--
+ -->
+
+<input type="hidden" class="id" value="6513">
+<input type="hidden" class="category" value="Perfume Masculino">
+
+<a class="productImage" title="Vodka Brasil Yellow Paris Elysees - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/vodka-brasil-yellow-eau-de-toilette-paris-elysees-perfume-masculino/p"><img src="http://epocacosmeticos.vteximg.com.br/arquivos/ids/197792-178-174/vodka-brasil-yellow-for-men-edt-paris-elysees.jpg" width="178" height="174" alt="vodka-brasil-yellow-for-men-edt-paris-elysees" id="" /></a>
+
+<div class="trustvox-widget-rating" data-trustvox-product-code="6513"></div>
+
+<div class="discount"><p class="flag promocao-cartao-5-">Promoção Cartão 5%</p> </div>
+
+<p class="brand"><a class="texto brand paris-elysees" href="http://www.epocacosmeticos.com.br/paris-elysees">Paris Elysees</a></p>
+
+<h3><a title="Vodka Brasil Yellow Paris Elysees - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/vodka-brasil-yellow-eau-de-toilette-paris-elysees-perfume-masculino/p">Vodka Brasil Yellow Paris Elysees - Perfume Masculino - Eau de Toilette</a></h3>
+
+
+    <p class="price">
+        <a title="Vodka Brasil Yellow Paris Elysees - Perfume Masculino - Eau de Toilette" href="http://www.epocacosmeticos.com.br/vodka-brasil-yellow-eau-de-toilette-paris-elysees-perfume-masculino/p">
+            <span class="oldPrice"><span>R$ 69,00</span></span>
+            <span class="newPrice">R$ 54,90</span>
+            <em class="installment">
+                                    2X de R$ 27,45
+                            </em>
+        </a>
+    </p>
+
+    <a href="http://www.epocacosmeticos.com.br/vodka-brasil-yellow-eau-de-toilette-paris-elysees-perfume-masculino/p" class="comprar">COMPRAR</a>
+<div class="frete"> </div>
+</li><li id="helperComplement_6513" style="display:none" class="helperComplement"></li></ul></div></div><div class="pager bottom" id="PagerBottom_23277324"></div></div><p class="searchResultsTime"><span class="resultado-busca-numero"><span class="label">Produtos encontrados:</span> <span class="value">1695</span></span><span class="resultado-busca-termo"> <span class="label">Resultado da Pesquisa por:</span> <strong class="value"></strong></span><span class="resultado-busca-tempo"> <span class="label">em</span> <span class="value">234 ms</span></span></p><div class="sub"><div class="resultado-busca-filtro">
+<fieldset class="orderBy">
+<label>Ordenar por:</label>
+<select id="O" onchange="window.location.href= '/perfumes?PS=20&' + 'O=' + this.options[this.selectedIndex].value">
+<option  value="">Selecione</option>
+<option  value="OrderByPriceASC">Menor Preço</option>
+<option  value="OrderByPriceDESC">Maior Preço</option>
+<option  value="OrderByTopSaleDESC">Mais vendidos</option>
+<option  value="OrderByReviewRateDESC">Melhores avaliações</option>
+<option  value="OrderByNameASC">A - Z</option>
+<option  value="OrderByNameDESC">Z - A</option>
+<option  value="OrderByReleaseDateDESC">Data de lançamento</option>
+<option  value="OrderByBestDiscountDESC">Melhor Desconto</option>
+</select>
+</fieldset>
+<fieldset class="filterBy">
+Itens por página:
+<select id="PS" onchange="window.location.href= '/perfumes?' + 'PS=' + this.options[this.selectedIndex].value">
+<option selected="selected" value="20">20</option>
+<option  value="40">40</option>
+<option  value="60">60</option>
+<option  value="80">80</option>
+</select>
+</fieldset>
+<p class="compare">Produtos selecionados para comparar: <strong><span class="compare-selection-count" id="NumeroSuperior">0</span></strong><a title="Comparar" class="btn-comparar" href="#">Comparar</a></p></div></div></div></section><div chaordic="middle"></div><div class="areaSEO">
+  <a href="http://blog.epocacosmeticos.com.br/perfumes/" target="_blank" title="Tire suas dúvidas sobre Perfumes">
+    <img width="705" height="90" alt="Tire todas as suas dúvidas sobre perfumes importadosno Papo de Beleza" title="Perfumes Importados - resenhas e dicas no Papo de Beleza" src="http://epocacosmeticos.vteximg.com.br/arquivos/papo-de-beleza-perfumes_20161207.png" />
+  </a>
+  <h2>
+    <strong>Perfumes Nacionais e Importados</strong>
+  </h2>
+  <p>É tão bom deixar nossa marca por onde passamos, não é mesmo? Por isso, usar um perfume importado com fragrâncias duradouras e aromas que combinam com você é muito importante. </p>
+  <p>Perfumes importados femininos e masculinos de marcas como <a href="http://www.epocacosmeticos.com.br/perfumes/calvin-klein" title="Perfume Calvin Klein na Época cosméticos">Calvin Klein</a>, <a href="http://www.epocacosmeticos.com.br/perfumes/ferrari" title="Perfume Ferrari na Época cosméticos">Ferrari</a>, <a href="http://www.epocacosmeticos.com.br/perfumes/paco-rabanne" title="Perfume Paco Rabanne na Época cosméticos">Paco Rabanne</a>, <a href="http://www.epocacosmeticos.com.br/perfumes/carolina-herrera" title="Perfume Carolina Herrera na Época cosméticos">Carolina  Herrera</a> são ideais para homens e mulheres que desejam destaque e a satisfação de serem lembrados por onde passam. Aproveite e presenteie a pessoa que ama com um <a href="http://www.epocacosmeticos.com.br/campanha/natal" title="Perfume de Presente de Natal">Perfume Importado no Natal</a></p>
+</div><div chaordic="bottom"></div></main><!-- conteudo --></div><!-- cont --></div><!-- cont100 --><!-- footer --><footer class="footer"><section class="footer-top"><div class="u-center"><nav><ul><li class="destaque"><p>Destaque</p></li><li><a href="http://www.papodebeleza.com.br" title="Papo de Beleza">Papo de Beleza</a></li><li><a href="http://busca.epocacosmeticos.com.br" title="Buscas Populares">Buscas Populares</a></li><li><a href="http://www.epocacosmeticos.com.br/mais-vendidos" title="Mais Vendidos">Mais Vendidos</a></li><li><a href="http://www.epocacosmeticos.com.br/selecao/ofertas" title="Oferta do dia">Oferta do dia</a></li><li><a href="http://www.epocacosmeticos.com.br/lancamentos" title="Lançamentos">Lançamentos</a></li><li><a href="http://www.epocacosmeticos.com.br/marcas" title="Todas as Marcas">Todas as Marcas</a></li><li><a href="http://www.epocacosmeticos.com.br/sitemap" title="Mapa do Site">Mapa do Site</a></li><!-- <li><a href="http://www.epocacosmeticos.com.br/blackfriday" title="Black Friday">Black Friday</a></li> --></ul><ul><li><p>Institucional</p></li><li><a href="/nossaslojas" title="Sobre a Época Cosméticos">Sobre a Época Cosméticos</a></li><li><a href="/centralatendimento/formas-pagamento" title="Formas de Pagamento">Formas de Pagamento</a></li><li><a href="/centralatendimento/entrega" title="Prazo de Entrega">Prazo de Entrega</a></li><li><a href="/centralatendimento/privacidade-seguranca" title="Privacidade e Segurança">Privacidade e Segurança</a></li></ul><ul><li><p>Atendimento</p></li><li><a href="/centralatendimento/como-comprar" title="Como Comprar">Como Comprar</a></li><li><a href="/centralatendimento" title="Central de Atendimento">Central de Atendimento</a></li><li><a href="/login?ReturnUrl=%2faccount%2forders" title="Acompanhe o seu pedido">Acompanhe o seu pedido</a></li><li><a href="/login?ReturnUrl=%2faccount%2forders" title="2ª via do Boleto">2ª via do Boleto</a></li><li><a href="/centralatendimento/troca-devolucao" title="Troca e Devolução">Troca e Devolução</a></li><li><a href="/centralatendimento/vantagens-qualidade-confianca" title="Qualidade e Confiança">Qualidade e Confiança</a></li><li><a href="/quero-cupom" title="Cupom Época Cosméticos">Cupom de Desconto</a></li></ul></nav><div class="footer-top__redes"><ul><li class="title"><p>Redes sociais</p></li><li><a href="http://www.twitter.com/epocacosmeticos" class="twitter" title="Twitter" target="_blank">Twitter</a></li><li><a href="https://www.facebook.com/EpocaCosmeticos" class="facebook" title="Facebook" target="_blank">Facebook</a></li><li><a href="http://plus.google.com/+epocacosmeticos" class="google" title="Google +" target="_blank">Google +</a></li><li><a href="http://www.youtube.com/epocacosmeticos" class="youtube" title="YouTube" target="_blank">YouTube</a></li><li><a href="https://instagram.com/epocacosmeticos" class="instagram" title="Instagram" target="_blank">Instagram</a></li></ul></div><div class="footer-top__pagamento"><ul><li class="title"><p>Pague com</p></li><li class="hiper"></li><li class="amex"></li><li class="visa"></li><li class="master"></li><li class="dinners"></li><li class="boleto"></li></ul></div></div></section><section class="footer-middle"><div class="u-center"><div class="footer-middle__selo"><p>Pode confiar na gente</p><!-- ebite --><a id="seloEbit" href="http://www.ebit.com.br/epoca-cosmeticos" target="_blank" onclick="redir(this.href);">Avaliação de Lojas e-bit</a><script type="text/javascript" id="getSelo" src="http://558701205.r.anankecdn.com.br/ebitBR/static/getSelo.js?5354"></script><!-- !ebite --><!-- site blindado --><div id="armored_website"><param id="aw_preload" value="true" /><param id="aw_use_cdn" value="true" /></div><script type="text/javascript" src="http://selo.siteblindado.com/aw.js"></script><!-- site blindado --><!-- DigiCert --><div class="digi-cert"><div id="DigiCertClickID_rDYbygEk" data-language="en_US"><a href="http://www.digicert.com/unified-communications-ssl-tls.htm"></a></div><script type="text/javascript">
+                        var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_rDYbygEk", "7", "m", "black", "rDYbygEk"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls =s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+                    </script></div><!-- ! DigiCert --><!-- site reclame aqui --><a target="_blank" href="http://www.reclameaqui.com.br/selo/"><img src="//epocacosmeticos.vteximg.com.br/arquivos/ra1000-epocacosmeticos.jpg" alt="Reclame Aqui" class="imagens_internas" /></a><img width="46" height="46" src="//epocacosmeticos.vteximg.com.br/arquivos/adipec.jpg" alt="ADIPEC" class="imagens_internas" /><!-- Selo Site Sincero --><div id="trustvox-selo-site-sincero" class="ts-modal-trigger"><img src="//epocacosmeticos.vteximg.com.br/arquivos/trustvox-selo-site-sincero-pequeno-x2.png" title="Opiniões Sinceras - Você pode confiar - Selo Site Sincero - Trustvox" alt="Opiniões Sinceras - Você pode confinar - Selo Site Sincero - Trustvox" /></div><link rel="stylesheet" type="text/css" href="//epocacosmeticos.vteximg.com.br/arquivos/trustvox-selo.css" /><script>
+                var _trustvox_certificate = _trustvox_certificate || [];
+                _trustvox_certificate.push(['_certificateId', 'epoca-cosmeticos']);
+
+                (function() {
+                var tv = document.createElement('script'); tv.type = 'text/javascript'; tv.async = true;
+                tv.src = '//s3-sa-east-1.amazonaws.com/trustvox-certificate-modal-js/widget.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tv, s);
+                })();
+                </script></div></div></section><section class="footer-bottom"><div class="u-center"><div class="footer-bottom__epoca"><img src="//epocacosmeticos.vteximg.com.br/arquivos/epoca-marca-footer.png" alt="Época Cosméticos" /></div><!-- logo_footer --><div class="footer-bottom__endereco"><p>Época Cosméticos Perfumaria | site.sac@epocacosmeticos.com.br | [21] 3202.7555 | www.epocacosmeticos.com.br
+Razão Social: Campos Floridos Comercio de Cosmeticos Ltda | CNPJ: 01.239.313/0001-60
+Rua Francisco Sá, 23 / 907 - Copacabana - Rio de Janeiro (não realizamos vendas no local)
+O preço válido será o da finalização da compra. Vendas sujeitas à análise de dados. Brindes não são vendidos.
+Brindes, cupons e descontos não são cumulativos. As imagens em nosso site são meramente ilustrativas.</p></div><!-- endereco --></div></section></footer><!-- /footer --><!-- JS --><script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script><script src="http://i.btg360.com.br/lc.js" type="text/javascript" async="true"></script><script type="text/javascript">
+  var _trustvox_shelf_rate = _trustvox_shelf_rate || [];
+  _trustvox_shelf_rate.push(['_storeId', '393']);
+  _trustvox_shelf_rate[1] = ["_productContainer", '.prateleira , .banners-principais-homev7 , body']
+  _trustvox_shelf_rate.push(['_watchSubtree', true]);
+</script><script type="text/javascript" async="true" src="http://s3-sa-east-1.amazonaws.com/trustvox-rate-widget-js/widget.js"></script><script type="text/javascript" src="//epocacosmeticos.vteximg.com.br/arquivos/epc-desktop.min.js"></script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.epocacosmeticos.com.br",
+  "name": Época Cosméticos e Perfumaria",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://busca.epocacosmeticos.com.br/busca?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.epocacosmeticos.com.br",
+  "logo": "http://hd.epocacosmeticos.com.br/2016/logo-epoca/logo-epoca-preta.png",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "(21) 3202-7555",
+    "contactType": "Televendas"
+  }]
+}
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Época Cosméticos e Perfumaria",
+  "url": "http://www.epocacosmeticos.com.br",
+  "sameAs": [
+    "https://www.facebook.com/EpocaCosmeticos/",
+    "https://www.instagram.com/epocacosmeticos",
+    "https://twitter.com/epocacosmeticos
+    "https://plus.google.com/+epocacosmeticos"
+  ]
+}
+</script><script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/Track.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/thickbox.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/json2.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.CallCenterDisclaimer.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.ajaxLoader_V2.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/social/vtex-view-part.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.cookie.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.commerce.batchbuy.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.jsevents.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.skuEvents.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.skuEvents.skuDataFetcher.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/jquery.livequery.min.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/prettyPhoto/js/jquery.prettyPhoto.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/prettyPhoto/js/lean-prettyPhoto.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.commerce.Compare.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/mobile/vtex.make.mobile.pager.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.commerce.switchGridListView.js?v=1.4.722.1303"  type="text/javascript"></script>
+<script language="javascript" src="http://epocacosmeticos.vteximg.com.br/Scripts/vtex.viewPart.searchNavigator.js?v=1.4.722.1303"  type="text/javascript"></script>
+</body>
+</html>

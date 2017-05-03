@@ -17,22 +17,17 @@ class EpocacosmeticosCrawler(CrawlerBase):
         CrawlerBase
     """
 
-    def __init__(self, url):
+    def __init__(self, url, file_name = "produtos.csv"):
         CrawlerBase.__init__(self, url)
 
-        self.products_visited = set()
-        self.file = open('produtos.csv', 'w+')
-        self.csv_writer = csv.writer(self.file)
+        try:
+            self.products_visited = set()
+            self.file = open(file_name, "w+")
+            self.csv_writer = csv.writer(self.file)
+        except FileNotFoundError:
+            raise FileNotFoundError("Arquivo informado não encontrado, favor verificar.")
 
         self.base_url = url
-
-    def dispose(self):
-        """
-        Implementação do método herdado.
-
-        Realiza a limpeza dos objetos, neste caso apenas fecha o arquivo.
-        """
-        self.file.close()
 
     def page_scrap(self, soup):
         """
@@ -72,7 +67,7 @@ class EpocacosmeticosCrawler(CrawlerBase):
         Returns:
             [Product] -- Objeto produto preenchido com nome, título e url
         """
-        page_type = soup.find('meta', property='og:type')
+        page_type = soup.find("meta", property="og:type")
 
         if page_type is not None and page_type.get("content") == "og:product":
             product_name = re.search(
@@ -83,3 +78,11 @@ class EpocacosmeticosCrawler(CrawlerBase):
 
             if product_name and product_title and product_url:
                 return Product(product_name.group(1), product_title.group(1), product_url.group(1))
+
+    def dispose(self):
+        """
+        Implementação do método herdado.
+
+        Realiza a limpeza dos objetos, neste caso apenas fecha o arquivo.
+        """
+        self.file.close()
