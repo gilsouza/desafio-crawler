@@ -39,13 +39,13 @@ Utilizaria o PhantomJS.
 
 #### Alguns sites podem bloquear a captura por interpretar seus acessos como um ataque DDOS. Como lidaria com essa situação?
 Existem algumas medidas que poderiam ser adotas para mitigar o risco de detecção como um ataque deste gênero:
-	- Aumento do intervalo de tempo entre requests;
-	- Uso de proxies ou VPNs para distribuir a faixa de ips utilizados para os acessos;
+	- Aumento do intervalo de tempo entre requests
+	- Uso de proxies ou VPNs para distribuir a faixa de ips utilizados para os acessos
 	- Em alguns sites específicos, pode ser necessário imitar o comportamento humano ao realizar as requisições,
-	  tornando as requisições menos sintéticas possíveis;
-	- Ou combinando com o cliente um ambiente, uma faixa de horário ou ips que possam realizar o livre acesso aos sites.
+	  tornando as requisições menos sintéticas possíveis
+	- Ou combinando com o cliente um ambiente, uma faixa de horário ou ips que possam realizar o livre acesso aos sites
 
-Essas seriam medidas a serem utilizadas de forma combinada. Acredito que a medida mais importe é o aumento do intervalo de tempo entre requests.
+Essas seriam medidas a serem utilizadas de forma combinada. *Acredito que a medida mais importe é o aumento do intervalo de tempo entre requests.*
 
 #### Um cliente liga reclamando que está fazendo muitos acessos ao seu site e aumentando seus custos com infra. Como resolveria esse problema?
 Através de uma reunião de alinhamento das necessidades das duas partes, poderia ser solicitado um ambiente, uma janela de execução (data e horário)
