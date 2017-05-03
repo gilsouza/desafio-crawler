@@ -39,6 +39,7 @@ Utilizaria o PhantomJS.
 
 #### Alguns sites podem bloquear a captura por interpretar seus acessos como um ataque DDOS. Como lidaria com essa situação?
 Existem algumas medidas que poderiam ser adotas para mitigar o risco de detecção como um ataque deste gênero:
+
 	- Aumento do intervalo de tempo entre requests
 	- Uso de proxies ou VPNs para distribuir a faixa de ips utilizados para os acessos
 	- Em alguns sites específicos, pode ser necessário imitar o comportamento humano ao realizar as requisições,
