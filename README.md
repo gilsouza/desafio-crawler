@@ -26,7 +26,7 @@ Crawler que visita o site epocacosmeticos.com.br e salva um arquivo .csv os dado
 # Execução do Script
     
     $ python3 main.py
-        Output: epocacosmeticoscrawlerTest.csv
+        Output: products.csv
 
 # Questões
 
